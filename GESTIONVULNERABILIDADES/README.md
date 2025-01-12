@@ -66,4 +66,4 @@ El objetivo de la ciberseguridad es **reducir el riesgo** a un nivel aceptable p
 *   **Detectar y responder a amenazas:** Utilizar software antivirus, firewalls, sistemas de detección de intrusiones.
 *   **Gestionar el riesgo:** Evaluar y priorizar los riesgos, implementar controles de seguridad y planes de contingencia.
 
-Al comprender estos conceptos y su relación, las organizaciones pueden desarrollar estrategias de ciberseguridad más efectivas para proteger sus activos y minimizar los riesgos. ¿Hay algún otro aspecto que quieras que explique con más detalle?
+Al comprender estos conceptos y su relación, las organizaciones pueden desarrollar estrategias de ciberseguridad más efectivas para proteger sus activos y minimizar los riesgos. 
