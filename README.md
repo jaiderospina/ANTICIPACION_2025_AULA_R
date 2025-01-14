@@ -1,7 +1,7 @@
 # ANTICIPACION_AMENAZAS_CIBERNETICAS_20251
 
 
-![Contribution guidelines for this project](IMAGES/IMAG1.webp)
+![1](IMAGES/IMAG11.webp)
 
 # Recursos:
 
