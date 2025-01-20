@@ -1,8 +1,6 @@
 # Taller en Clase.
 
-En los grupos de trabajo:
-
-Defina y exolique mediante un ejemplo cada uno de los tipos de ataque de la imágen que se prsenta a continuación.
+En los grupos de trabajo  defina y explique mediante un ejemplo cada uno de los tipos de ataque de la imágen que se prsenta a continuación.
 
 **Pautas**
 
