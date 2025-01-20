@@ -1,7 +1,7 @@
-# CyberGroup 1
+# Grupo Cyber 1
 
 ## Participantes
 
-1. **CC Cabuya**
-2. **MY Lopez**
-3. **MY Cruz**
+1. **CC Cabuya Diego**
+2. **MY Lopez Victor**
+3. **MY Cruz Baudin**
