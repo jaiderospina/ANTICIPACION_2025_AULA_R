@@ -5,6 +5,7 @@
 1. **CC Cabuya Diego**
 2. **MY Lopez Victor**
 3. **MY Cruz Baudin**
+4. **MY Yerson Torres**
    
 # Los 8 Principales Ciberataques #
 
@@ -89,7 +90,7 @@ En 2021, la vulnerabilidad de día cero en Microsoft Exchange Server permitió q
 
 ## 8. DNS Spoofing
 
-#### Definición
+### Definición
 El DNS Spoofing consiste en comprometer el sistema de nombres de dominio para redirigir a los usuarios a sitios falsos sin su conocimiento (Abdullah et al., 2010).
 
 #### Ejemplo Conceptual
