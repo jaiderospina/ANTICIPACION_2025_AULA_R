@@ -17,7 +17,7 @@ En este documento, se analizan los principales tipos de ciberataques que afectan
 
 El phishing es un ataque en el que un adversario intenta engañar a la víctima para que revele información sensible, como contraseñas, números de tarjeta de crédito o credenciales de acceso, haciéndose pasar por una entidad confiable en una comunicación electrónica (Jakobsson & Myers, 2006).
 
-![Contextualización de la definición]([[[URL-de-la-imagen](https://digilopolis.com/blog/2017/09/13/phishing-que-es/](https://digilopolis.com/blog/wp-content/uploads/2017/09/Phishing-1024x690.jpg))](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigilopolis.com%2Fblog%2F2017%2F09%2F13%2Fphishing-que-es%2F&psig=AOvVaw1gG8zvmlte-_d3la2OO2lP&ust=1737569046634000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiK_tKfs4eLAxVegLAFHYCUCQAQjRx6BAgAEBk))
+![Contextualización de la Definición](Imagenes/Phishing-1024x690.jpg)
 
 ### Ejemplo Conceptual
 
