@@ -28,3 +28,5 @@
 
 # RAMSOWARE
 ![RAMSOWARE](https://latam.kaspersky.com/content/es-mx/images/repository/isc/2021/ransomware.jpg)
+
+* El ransomware, en informática, es un tipo de malware o código malicioso que impide la utilización de los equipos o sistemas que infecta. El ciberdelincuente toma control del equipo o sistema infectado y lo “secuestra” de varias maneras, cifrando la información, bloqueando la pantalla, etc. El usuario es víctima de una extorsión, se le pide un rescate económico a cambio de recuperar el normal funcionamiento del dispositivo o sistema.
