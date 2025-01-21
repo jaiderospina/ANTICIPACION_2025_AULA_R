@@ -8,4 +8,5 @@ La **anticipación de amenazas cibernéticas** es una competencia esencial en el
 
 # Recursos:
 
- - GIT: https://github.com/jaiderospina/Gesti-n-de-Ciberseguridad_2024_2/tree/main/GIT 
+ - **Uso de GIT**: https://github.com/jaiderospina/Gesti-n-de-Ciberseguridad_2024_2/tree/main/GIT
+ - **Sintaxis de Markdown**: https://tutorialmarkdown.com/sintaxis
