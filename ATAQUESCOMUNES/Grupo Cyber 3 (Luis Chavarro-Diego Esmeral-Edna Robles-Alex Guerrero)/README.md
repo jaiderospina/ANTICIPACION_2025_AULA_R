@@ -4,4 +4,4 @@
 ### _Date_: 21-01-25
 
 
-![Sql Injection]("/Users/corsa/Downloads/SQL-injection-attack-example.png")
+![Sql Injection]("/Users/corsa/Downloads/sql_example_02.png")
