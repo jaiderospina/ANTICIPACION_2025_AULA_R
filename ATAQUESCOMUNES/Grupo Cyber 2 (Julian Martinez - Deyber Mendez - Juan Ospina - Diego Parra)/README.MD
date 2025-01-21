@@ -25,3 +25,6 @@
 ![PHISHING](https://blog.hackmetrix.com/wp-content/uploads/2024/04/Introduccion-al-Phishing-y-la-Ingenieria-Social-1160x680.jpg)
 
 * El phishing es una técnica de ingeniería social que consiste en el envío de correos electrónicos fraudulentos para obtener información personal de los usuarios. El objetivo de los ataques de phishing es robar dinero o identidad. 
+
+# RAMSOWARE
+![RAMSOWARE](https://latam.kaspersky.com/content/es-mx/images/repository/isc/2021/ransomware.jpg)
