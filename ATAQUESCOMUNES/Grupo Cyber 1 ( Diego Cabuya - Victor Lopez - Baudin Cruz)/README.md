@@ -17,6 +17,7 @@ En este documento, se analizan los principales tipos de ciberataques que afectan
 
 El phishing es un ataque en el que un adversario intenta engañar a la víctima para que revele información sensible, como contraseñas, números de tarjeta de crédito o credenciales de acceso, haciéndose pasar por una entidad confiable en una comunicación electrónica (Jakobsson & Myers, 2006).
 
+#### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/Phishing-1024x690.jpg)
 
 ### Ejemplo Conceptual
@@ -33,6 +34,9 @@ En 2020, un ataque de phishing masivo dirigido a usuarios de Microsoft Office 36
 
 El ransomware es un tipo de malware que cifra los datos de la víctima y exige un rescate económico para restaurar el acceso (Kharraz et al., 2015).
 
+#### Contextualización Definición
+![Contextualización de la Definición](Imagenes/Ransomeware.png)
+
 ### Ejemplo Conceptual
 
 Un empleado descarga un archivo adjunto de un correo electrónico que contiene un malware. Este cifra todos los datos del disco duro, mostrando una nota de rescate exigiendo un pago en criptomonedas para liberar los archivos.
@@ -46,6 +50,9 @@ El ataque de ransomware WannaCry en 2017 afectó a más de 200,000 sistemas en 1
 ### Definición
 
 Un ataque DoS busca hacer que un servicio en línea no esté disponible sobrecargándolo con tráfico o solicitudes hasta que el sistema colapse (Mirkovic & Reiher, 2004).
+
+#### Contextualización Definición
+![Contextualización de la Definición](Imagenes/DoS.png)
 
 ### Ejemplo Conceptual
 
