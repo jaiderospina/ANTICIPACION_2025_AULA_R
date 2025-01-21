@@ -19,6 +19,8 @@ El phishing es un ataque en el que un adversario intenta engañar a la víctima 
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/Phishing-1024x690.jpg)
+Fuente: https://www.infospyware.com/articulos/que-es-el-phishing
+
 
 ### Ejemplo Conceptual
 
@@ -36,6 +38,8 @@ El ransomware es un tipo de malware que cifra los datos de la víctima y exige u
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/Ransomeware.png)
+https://es.statista.com/grafico/9376/como-funciona-un-ransomware/
+
 
 ### Ejemplo Conceptual
 
@@ -53,6 +57,8 @@ Un ataque DoS busca hacer que un servicio en línea no esté disponible sobrecar
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/DoS.png)
+https://www.spanning.com/blog/denial-of-service-attacks-web-based-application-security-part-7/
+
 
 ### Ejemplo Conceptual
 
