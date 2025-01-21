@@ -76,7 +76,7 @@
 * Gupta, A., & Gupta, S. (2017). Cross-Site Scripting (XSS) Attacks and Prevention. Journal of Computer Science.
  
 # ZERO-DAY EXPLOITS 
-![XERO-DAY EXPLOITS] (https://www.accuknox.com/wp-content/uploads/zerodayattacks_4-1024x545.png)
+![XERO-DAY EXPLOITS](https://www.accuknox.com/wp-content/uploads/zerodayattacks_4-1024x545.png)
 * Definición: Es una vulnerabilidad en software desconocida para el fabricante y para la que no existe parche o solución al momento del ataque.
 * Ejemplo: Un atacante explota una vulnerabilidad recién descubierta en un navegador antes de que el proveedor publique un parche.
 * Caso real: El ataque Stuxnet en 2010 utilizó múltiples exploits de día cero para sabotear centrifugadoras nucleares en Irán.
