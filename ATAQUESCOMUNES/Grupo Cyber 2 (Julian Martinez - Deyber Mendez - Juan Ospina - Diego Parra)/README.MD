@@ -8,4 +8,4 @@
 * CARGO ACTUAL: ALUMNO CEM
 * MAESTRIA: CIBERSEGURIDAD Y CIBERDEFENSA
 *
-![C:\Users\Lenovo\Pictures\CIBER.JPG]
+![CIBER] (C:\Users\Lenovo\Pictures\CIBER.JPG)
