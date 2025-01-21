@@ -7,4 +7,3 @@
 * EDAD: 41 AÑOS 
 * CARGO ACTUAL: ALUMNO CEM
 * MAESTRIA: CIBERSEGURIDAD Y CIBERDEFENSA
-!(https://www.responsabilidadconsejerosydirectivos.com/estos-son-los-cinco-principales-riesgos-ciber-para-2021/)
