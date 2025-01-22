@@ -18,6 +18,7 @@
  
 
 **a.**	*Cómo Funciona el Ataque MitM*
+
 •	Intercepción:
 o	El atacante se posiciona entre la víctima y el destino final de su comunicación (por ejemplo, un servidor web o una aplicación en línea).
 o	Esto puede lograrse mediante redes Wi-Fi falsas, herramientas de red o aprovechando vulnerabilidades en los sistemas.
