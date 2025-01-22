@@ -20,6 +20,7 @@ En este documento explicaremos los principales ciberataques los cuales son aquel
 El phishing es un ataque que intenta robar su dinero o su identidad, haciendo que divulgue información personal (como números de tarjeta de crédito, información bancaria o contraseñas) en sitios web que fingen ser sitios legítimos.
 
 ![](https://easydmarc.com/blog/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/10/Screen-Shot-2019-10-02-at-09.51.09.png.webp)
+
 ## 2. RAMSOMWARE
 
 Un ransomware (del inglés ransom, 'rescate', y ware, acortamiento de software) o 'secuestro de datos' en español, es un tipo de programa dañino que restringe el acceso a determinadas partes o archivos del sistema operativo infectado y pide un rescate a cambio de quitar esta restricción.
