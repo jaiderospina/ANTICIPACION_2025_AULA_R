@@ -35,3 +35,4 @@ El spoofing es una técnica de suplantación de identidad utilizada para engaña
 ## BIBLIOGRAFIA
 1. J. Walker, B. Williams and G. Skelton, Cyber security for emergency management, Proceedings of the IEEE International Conference on Technologies for Homeland Security, pp. 476–480, 2010.
 2. Kaspersky. (s. f.). ¿Qué es la suplantación? Definición y explicación. Recuperado de https://latam.kaspersky.com/resource-center/definitions/spoofing
+3. Trend Micro. (n.d.). Malicious ads redirect to Flash zero-day exploit, affects top video sharing. Recuperado de https://www.trendmicro.com/vinfo/de/security/news/cybercrime-and-digital-threats/malicious-ads-redirect-to-flash-zero-day-exploit-affects-top-video-sharing
