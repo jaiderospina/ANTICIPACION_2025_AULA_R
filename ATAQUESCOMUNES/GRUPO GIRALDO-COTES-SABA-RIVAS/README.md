@@ -56,11 +56,10 @@ Los ataques de ingeniería social son tácticas utilizadas por los ciberdelincue
 
 ![image](https://github.com/user-attachments/assets/3a490ea3-a62c-4470-8379-18b3bdb86d70)
 
- 
- **a.**	*Características Claves de los Ataques de Ingeniería Social* 
-   •	Manipulación Psicológica: Los atacantes emplean técnicas que apelan a la curiosidad, el miedo, la urgencia o la confianza de las víctimas. 
-   •	Sin Necesidad de Habilidades Técnicas Avanzadas:No siempre requieren métodos sofisticados; pueden depender únicamente de la interacción humana. 
-   •	Objetivo Principal: Obtener credenciales, información financiera, acceso a redes o sistemas, o inducir a las víctimas a realizar acciones específicas (como transferencias de dinero).
+    **a.**	*Características Claves de los Ataques de Ingeniería Social* 
+      •	Manipulación Psicológica: Los atacantes emplean técnicas que apelan a la curiosidad, el miedo, la urgencia o la confianza de las víctimas.
+      •	Sin Necesidad de Habilidades Técnicas Avanzadas:No siempre requieren métodos sofisticados; pueden depender únicamente de la interacción humana.
+      •	Objetivo Principal: Obtener credenciales, información financiera, acceso a redes o sistemas, o inducir a las víctimas a realizar acciones específicas (como transferencias de dinero).
 
  **b.**	*Tipos Comunes de Ataques de Ingeniería Social*
     •	Phishing: o	Correos electrónicos
