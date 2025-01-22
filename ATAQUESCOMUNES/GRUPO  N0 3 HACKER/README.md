@@ -36,3 +36,4 @@ El ransomware es solo una de las múltiples formas que puede adoptar el malware,
 RAMSOMWARE
 
 Un ramsomware es un programa (llamado también malware) que una vez ejecutado en el sistema operativo, impide al usuario acceder a sus datos o ejecutar programas y exige un pago en concepto de rescate a fin de poder volver acceder de nuevo a ellos. El pago se exige a través de criptomonedas donde se asegura el anonimato y la imposibilidad de rastrear el pago y en algunos casos (pocos) mediante tarjeta de crédito / débito.
+![](https://laby.es/wp-content/uploads/2023/10/pirata-informatico.jpg
