@@ -8,7 +8,7 @@ GRUPO CREADO PARA DESARROLLAR ELEMENTOS DE LA MATERIA ANTICIPACIÓN DE AMENAZAS
 En este documento explicaremos los principales ciberataques los cuales son aquellos que utilizan programas o códigos maliciosos para dañar sistemas, redes o servidores. Algunos de los ciberataques más comunes son:
 >[!WARNING]
 >EL CONTENIDO INCLUIDO A CONTINUACION ES DE ESPECIAL ATENCION PARA EL PROYECTO X
-<h1 ## 1. PHISHING ATTACK >Título en rojo</h1>
+## 1. PHISHING ATTACK
 El phishing es un ataque que intenta robar su dinero o su identidad, haciendo que divulgue información personal (como números de tarjeta de crédito, información bancaria o contraseñas) en sitios web que fingen ser sitios legítimos.
 ![](https://easydmarc.com/blog/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/10/Screen-Shot-2019-10-02-at-09.51.09.png.webp)
 ## 2. RAMSOMWARE
