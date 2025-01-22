@@ -18,4 +18,11 @@ es una técnica de ciberataque utilizada para engañar a los usuarios y obtener 
 Son un tipo de ataque cibernético diseñado para agotar los recursos de un sistema o red, impidiendo que los usuarios legítimos accedan a los servicios o la información que necesitan. Estos ataques pueden afectar a servidores, redes o aplicaciones, y son una amenaza seria para la disponibilidad de los recursos en el entorno digital [Tipos de Ciberataques](https://raw.githubusercontent.com/username/repositoryname/main/images/tipos_ciberataques.png)
 ![](https://www.cloudflare.com/es-es/learning/ddos/what-is-a-ddos-attack)
 
+##**Ataques de Inyección**
+
+Explotan vulnerabilidades en aplicaciones para ejecutar comandos maliciosos:
+•	Inyección SQL: Inserta comandos SQL maliciosos para acceder o modificar bases de datos.
+•	Cross-Site Scripting (XSS): Inyecta scripts en sitios web para ejecutar código en los navegadores de los usuarios.
+•	Inyección de comandos: Inserta comandos del sistema operativo en aplicaciones vulnerables
+![](.https://www.avast.com/es-es/c-sql-injection)
 
