@@ -12,7 +12,6 @@ _GRUPO CREADO PARA DESARROLLAR ELEMENTOS DE LA MATERIA ANTICIPACIÓN DE AMENAZAS
 
 En este documento explicaremos los principales ciberataques los cuales son aquellos que utilizan programas o códigos maliciosos para dañar sistemas, redes o servidores. Algunos de los ciberataques más comunes son:
 >[!WARNING]
-
 >EL CONTENIDO INCLUIDO A CONTINUACION ES DE ESPECIAL ATENCION PARA EL PROYECTO X
 
 ## 1. PHISHING ATTACK
