@@ -96,4 +96,8 @@
 * Caso real: En 2018, un ataque de DNS Spoofing dirigido a Google en Brasil redirigió a usuarios a un sitio que instalaba malware en sus dispositivos.
 * Cloudflare. (2020). Understanding DNS Spoofing. Recuperado de https://www.cloudflare.com/
 
+# KEYLOGGERS
+![KEYLOGGERS](https://www.fortinet.com/content/dam/fortinet/images/cyberglossary/types-keyloggers.png)
+* Definicion: El software keylogger es más común que el hardware, porque no se necesita acceso físico al dispositivo objetivo. El software keylogger funciona como otro software malicioso: se infiltra en el dispositivo a través de enlaces o archivos adjuntos maliciosos, o incluso mediante exploits o troyanos. Un keylogger se ejecuta silenciosamente en el fondo del ordenador hasta que lo descubra y lo elimine. 
+
 
