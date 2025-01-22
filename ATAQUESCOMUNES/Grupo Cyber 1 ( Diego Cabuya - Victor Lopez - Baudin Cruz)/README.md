@@ -74,6 +74,10 @@ En 2016, un ataque DDoS dirigido contra Dyn, un proveedor de DNS, interrumpió e
 
 Un ataque MitM ocurre cuando un atacante intercepta y manipula la comunicación entre dos partes sin que estas lo sepan (Conti et al., 2016).
 
+#### Contextualización Definición
+![Contextualización de la Definición](Imagenes/man-in-the-middle-diagram.png)
+https://www.ibm.com/think/topics/man-in-the-middle/
+
 ### Ejemplo Conceptual
 
 Un atacante se posiciona entre un usuario y un servidor bancario, interceptando los datos que se envían, como credenciales de inicio de sesión.
