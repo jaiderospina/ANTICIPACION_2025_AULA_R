@@ -45,6 +45,7 @@ _FUENTE:https://www.arkoselabs.com/wp-content/uploads/A-man-in-the-middle-attack
 ### 5. An SQL injection, sometimes abbreviated as SQLi, is a type of vulnerability where an attacker uses a piece of SQL code (structured query language) to manipulate a database and access potentially valuable information. It is one of the most common and threatening types of attacks, as it can target virtually any website or web application that uses an SQL-based database.
 
 ![Sql Injection](https://images.spiceworks.com/wp-content/uploads/2022/05/13064934/Functioning-of-an-SQL-Injection.png)
+Fuente: (https://latam.kaspersky.com/resource-center/definitions/sql-injection)
 
 # 6. CROSS SITE SCRIPTING:
 
@@ -58,7 +59,6 @@ _A zero-day exploit is code that attackers use to exploit an unknown security vu
 
 FUENTES: 
 1. https://www.google.com/imgres?q=zero%20day%20exploits&imgurl=https%3A%2F%2Fcloudkul.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F05%2Fzero-dayjpg&imgrefurl=https%3A%2F%2Fcloudkul.com%2Fblog%2Fimpact-of-zero-day-attacks-on-a-companys-productivity%2F&docid=dVe7uhLUStiX4M&tbnid=42Ct_bV_FCDuwM&vet=12ahUKEwj74KyX-omLAxWgRDABHV2iEjQQM3oECBAQAA..i&w=1218&h=848&hcb=2&ved=2ahUKEwj74KyX-omLAxWgRDABHV2iEjQQM3oECBAQAA
-2. https://latam.kaspersky.com/resource-center/definitions/sql-injection
 
 # 8. DNS SPOOFING:
 
