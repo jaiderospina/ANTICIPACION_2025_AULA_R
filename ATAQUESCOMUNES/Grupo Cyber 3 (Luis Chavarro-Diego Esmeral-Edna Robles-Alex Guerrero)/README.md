@@ -35,7 +35,7 @@ Suplantación de identidad por clonación. Un ataque de clonación de suplantaci
 FUENTE: https://www.fortinet.com/lat/resources/cyberglossary/types-of-phishing-attacks
 
 # 2. RANSOMWARE:
-Este tipo de ciberataque que se realiza mediante un malware el cual se encarga de encriptar los archivos de la victima y le bloquea el ingreso a este mediante el cambio de contraseñas, en este caso el atacante realiza un tipo de secuestro de los datos en donde espera una remuneración de cualquier tipo para el desbloqueo de la información de la victima, normalmente se espera el pago en criptomonedas toda vez que su rastreo es mas complejo.
+Este tipo de ciberataque que se realiza mediante un malware el cual se encarga de encriptar los archivos de la victima y le bloquea el ingreso a este mediante el cambio de contraseñas, en este caso el atacante realiza un tipo de secuestro de los datos en donde espera una remuneración de cualquier tipo para el desbloqueo de la información de la victima, normalmente se espera el pago en criptomonedas toda vez que su rastreo es mas complejo.(fortinet, 2024)
 
 This type of cyberattack is carried out by means of a malware which is responsible for encrypting the victim's files and blocks access to it by changing passwords, in this case the attacker performs a type of data hijacking where he expects a remuneration of any kind for the unlocking of the victim's information, payment in cryptocurrencies is usually expected since its tracking is more complex.
 
@@ -54,7 +54,7 @@ Inicialmente, la protección contra el ransomware con un proceso de copia de seg
 FUENTE: https://www.fortinet.com/lat/resources/cyberglossary/how-to-prevent-ransomware
 
 # 3. DENIAL OF SERVICE:
-Es un ataque con el cual se logra dene-gar el servicio de una pagina sobrepasando la capacidad de respuesta al saturar la pagina con mas solicitudes de las que puede gestionar esta, lo que genera un blo-queo o (denegación de servicio) al no tener capacidad de respuesta.
+Es un ataque con el cual se logra dene-gar el servicio de una pagina sobrepasando la capacidad de respuesta al saturar la pagina con mas solicitudes de las que puede gestionar esta, lo que genera un blo-queo o (denegación de servicio) al no tener capacidad de respuesta.(fortinet, 2024)
 
 _This is an attack that denies the service of a web page, exceeding the response capacity by saturating the page with more requests than it can handle, which generates a blocking or denial of service (denial of service) due to the lack of response capacity._
 ![image](https://github.com/user-attachments/assets/7c39c1e8-94e8-4f2c-9436-db2cb72871e4)
@@ -68,7 +68,7 @@ _This is an intrusion-type attack in the middle of a communication between two v
 _FUENTE:https://www.arkoselabs.com/wp-content/uploads/A-man-in-the-middle-attack-simplified-diagram.jpg_
 _________________________________________________________________________________________________________
 # 5. SQL INJECTION:
-### Una inyección de SQL, a veces abreviada como SQLi, es un tipo de vulnerabilidad en la que un atacante usa un trozo de código SQL (lenguaje de consulta estructurado) para manipular una base de datos y acceder a información potencialmente valiosa. Es uno de los tipos de ataques más frecuentes y amenazadores, ya que puede atacar prácticamente cualquier sitio o aplicación web que use una base de datos basada en SQL.
+### Una inyección de SQL, a veces abreviada como SQLi, es un tipo de vulnerabilidad en la que un atacante usa un trozo de código SQL (lenguaje de consulta estructurado) para manipular una base de datos y acceder a información potencialmente valiosa. Es uno de los tipos de ataques más frecuentes y amenazadores, ya que puede atacar prácticamente cualquier sitio o aplicación web que use una base de datos basada en SQL.(fortinet, 2024)
 
 
 ![Sql Injection](https://images.spiceworks.com/wp-content/uploads/2022/05/13064934/Functioning-of-an-SQL-Injection.png)
