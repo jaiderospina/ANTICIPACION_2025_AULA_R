@@ -57,6 +57,7 @@ _A zero-day exploit is code that attackers use to exploit an unknown security vu
 ![image](https://github.com/user-attachments/assets/a7c29a91-f4d1-44fd-bc78-967f9fcb11bb)
 
 FUENTES: https://www.google.com/imgres?q=zero%20day%20exploits&imgurl=https%3A%2F%2Fcloudkul.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F05%2Fzero-day-1.jpg&imgrefurl=https%3A%2F%2Fcloudkul.com%2Fblog%2Fimpact-of-zero-day-attacks-on-a-companys-productivity%2F&docid=dVe7uhLUStiX4M&tbnid=42Ct_bV_FCDuwM&vet=12ahUKEwj74KyX-omLAxWgRDABHV2iEjQQM3oECBAQAA..i&w=1218&h=848&hcb=2&ved=2ahUKEwj74KyX-omLAxWgRDABHV2iEjQQM3oECBAQAA
+2.https://latam.kaspersky.com/resource-center/definitions/sql-injection
 
 # 8. DNS SPOOFING:
 
