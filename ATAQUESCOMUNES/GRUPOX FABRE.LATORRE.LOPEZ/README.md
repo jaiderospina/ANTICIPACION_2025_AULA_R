@@ -32,3 +32,5 @@ Un zero day exploit o vulnerabilidad de día cero es un fallo de seguridad infor
 ## 8. ATAQUE SPOOFING 
 El spoofing es una técnica de suplantación de identidad utilizada para engañar a sistemas, personas o redes haciéndoles creer que están interactuando con una fuente confiable cuando en realidad están siendo manipulados por un atacante. Este término se aplica en varios contextos dentro de la ciberseguridad.
 ![](https://celltrackingapps.com/wp-content/uploads/2023/05/types-of-spoofing-1024x634.png)
+## BIBLIOGRAFIA
+1. J. Walker, B. Williams and G. Skelton, Cyber security for emergency management, Proceedings of the IEEE International Conference on Technologies for Homeland Security, pp. 476–480, 2010.
