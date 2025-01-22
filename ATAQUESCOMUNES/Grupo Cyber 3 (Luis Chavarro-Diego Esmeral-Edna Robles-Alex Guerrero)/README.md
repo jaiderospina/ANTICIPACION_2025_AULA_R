@@ -67,4 +67,9 @@ FUENTES:
 
 # 8. DNS SPOOFING:
 
+# BIBLIOGRAFIA
+
+FORTINET. (s.f.). Tipos de ciberataques: ataque DDoS, ransomware y más. Obtenido de https://www.fortinet.com/lat/resources/cyberglossary/types-of-cyber-attacks
+
+
 
