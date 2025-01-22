@@ -26,3 +26,10 @@ Explotan vulnerabilidades en aplicaciones para ejecutar comandos maliciosos:
 •	Inyección de comandos: Inserta comandos del sistema operativo en aplicaciones vulnerables
 ![](.https://www.avast.com/es-es/c-sql-injection)
 
+##**MALWARE**
+
+El ransomware es solo una de las múltiples formas que puede adoptar el malware, un término que abarca diversos programas maliciosos diseñados para cumplir distintos propósitos. Estas amenazas pueden utilizarse para robar datos sensibles, mostrar anuncios invasivos o incluso causar daños permanentes a los sistemas que infectan.•	[Tipos de Ciberataques]https://www.checkpoint.com/es/cyber-hub/cyber-security/what-is-cyber-attack/types-of-cyber-attacks/
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ikusi.com%2Fmx%2Fblog%2Fque-es-malware%2F&psig=AOvVaw1rAOyjH7K3RLbO3diwXeJj&ust=1737660106219000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCKiYlsiGiosDFQAAAAAdAAAAABAJ)
+
+
+
