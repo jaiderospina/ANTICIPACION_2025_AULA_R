@@ -1,4 +1,12 @@
-A continuación, se presenta un cuadro descriptivo sobre el modelo de **defensa en profundidad** para la ciberseguridad, ejemplos prácticos y preguntas orientadoras al tema.  
+# **Defensa en Profundidad**
+
+**Definición:**
+
+La defensa en profundidad es un enfoque estratégico de ciberseguridad basado en la implementación de múltiples capas de controles de seguridad que trabajan de manera complementaria para proteger activos de información críticos. Este modelo asume que ningún mecanismo de seguridad es infalible y, por lo tanto, busca crear redundancia mediante la combinación de barreras físicas, técnicas y administrativas. Su objetivo principal es prevenir, detectar y mitigar amenazas a través de una arquitectura que dificulte el éxito de los ataques en cualquiera de las capas.  
+
+Este enfoque incluye la protección en distintos niveles, como la infraestructura física, las redes, los sistemas, las aplicaciones, los datos y las personas, para garantizar la resiliencia ante posibles fallos de seguridad o errores humanos. 
+
+** A continuación, se presenta un cuadro descriptivo sobre el modelo de **defensa en profundidad** para la ciberseguridad, ejemplos prácticos y preguntas orientadoras al tema.  
 
 ---
 
@@ -28,4 +36,8 @@ A continuación, se presenta un cuadro descriptivo sobre el modelo de **defensa 
 
 3. **¿Cómo se pueden fortalecer las capas relacionadas con los usuarios en la defensa en profundidad?**  
    *Respuesta introductoria:*  
-   La formación de los usuarios en temas como detección de correos de phishing, uso de contraseñas seguras y buenas prácticas en el manejo de datos sensibles es clave. Además, implementar políticas estrictas como la autenticación multifactor y monitorear el comportamiento de los usuarios puede reducir significativamente los riesgos.  
+   La formación de los usuarios en temas como detección de correos de phishing, uso de contraseñas seguras y buenas prácticas en el manejo de datos sensibles es clave. Además, implementar políticas estrictas como la autenticación multifactor y monitorear el comportamiento de los usuarios puede reducir significativamente los riesgos.
+
+   # Referencias.
+
+   - https://ciberseguridad.com/guias/prevencion-proteccion/defensa-profundidad-did/
