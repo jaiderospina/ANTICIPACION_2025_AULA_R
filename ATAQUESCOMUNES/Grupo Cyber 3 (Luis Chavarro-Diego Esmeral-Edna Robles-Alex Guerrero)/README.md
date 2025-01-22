@@ -86,8 +86,7 @@ _A zero-day exploit is code that attackers use to exploit an unknown security vu
 
 ![image](https://github.com/user-attachments/assets/a7c29a91-f4d1-44fd-bc78-967f9fcb11bb)
 
-FUENTES: 
-1. https://www.google.com/imgres?q=zero%20day%20exploits&imgurl=https%3A%2F%2Fcloudkul.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F05%2Fzero-dayjpg&imgrefurl=https%3A%2F%2Fcloudkul.com%2Fblog%2Fimpact-of-zero-day-attacks-on-a-companys-productivity%2F&docid=dVe7uhLUStiX4M&tbnid=42Ct_bV_FCDuwM&vet=12ahUKEwj74KyX-omLAxWgRDABHV2iEjQQM3oECBAQAA..i&w=1218&h=848&hcb=2&ved=2ahUKEwj74KyX-omLAxWgRDABHV2iEjQQM3oECBAQAA
+FUENTES: https://cloudkul.com/blog/wp-content/uploads/2022/05/zero-day-1-1024x713.jpg
 
 # 8. DNS SPOOFING:
 DNS Spoofing, también conocido como envenenamiento de caché DNS (DNS cache poisoning), es un ataque cibernético en el que un atacante manipula el sistema de resolución de nombres de dominio (DNS) de una red para redirigir el tráfico de los usuarios a sitios web maliciosos o no deseados. El objetivo principal de este ataque es alterar la forma en que los servidores DNS resuelven los nombres de dominio, haciéndolos apuntar a direcciones IP incorrectas. (Sundararajan, V., & Krishnamurthy, S. 2011). 
