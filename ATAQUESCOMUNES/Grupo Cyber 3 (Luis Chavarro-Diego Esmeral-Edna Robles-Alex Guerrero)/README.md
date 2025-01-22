@@ -57,9 +57,19 @@ FUENTE: https://www.fortinet.com/lat/resources/cyberglossary/how-to-prevent-rans
 Es un ataque con el cual se logra dene-gar el servicio de una pagina sobrepasando la capacidad de respuesta al saturar la pagina con mas solicitudes de las que puede gestionar esta, lo que genera un blo-queo o (denegación de servicio) al no tener capacidad de respuesta.(fortinet, 2024)
 
 _This is an attack that denies the service of a web page, exceeding the response capacity by saturating the page with more requests than it can handle, which generates a blocking or denial of service (denial of service) due to the lack of response capacity._
+
+Un ataque de denegación de servicio distribuido (DDoS) es un tipo de ataque DoS que se origina en muchas fuentes distribuidas, como un ataque DDoS de botnet.
+Una botnet es un grupo de computadoras infectadas con malware y controladas por un actor malicioso. El término botnet es una contracción de las palabras robot y red; Cada dispositivo infectado se denomina bot. Las botnets pueden diseñarse para realizar tareas ilegales o maliciosas, como el spam, el robo de datos, el ransomware, los clics fraudulentos en los anuncios o los ataques de denegación de servicio distribuido (DDoS).
+
+_A distributed denial-of-service (DDoS) attack is a type of DoS attack that originates from many distributed sources, such as a botnet DDoS attack.
+A botnet is a group of computers infected with malware and controlled by a malicious actor. The term botnet is a contraction of the words robot and network; Each infected device is called a bot. Botnets can be designed to perform illegal or malicious tasks, such as spam, data theft, ransomware, fraudulent ad clicks, or distributed denial-of-service (DDoS) attacks._
+
+https://www.cloudflare.com/fr-fr/learning/ddos/what-is-a-ddos-botnet/ 
+
 ![image](https://github.com/user-attachments/assets/7c39c1e8-94e8-4f2c-9436-db2cb72871e4)
 
 _FUENTE:https://www.spanning.com/blog/denial-of-service-attacks-web-based-application-security-part-7/denial-of-service-attack-example.png_
+
 # 4. MAN IN THE MIDDLE:
 Es un ataque de tipo intrusión en medio de una comunicación entre dos vectores, estaciones o usuarios. Este puede tener 3 efectos, el primero, para escuchar o extraer información de esta comunicación; el segundo, para bloquear la comunicación o desviarla; y el tercero, para retransmitir información errónea, es decir, se manipula la información cambiándola parcial o totalmente.(fortinet, 2024)
 
