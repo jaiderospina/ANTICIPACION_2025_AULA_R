@@ -16,12 +16,15 @@ _WE WILL NOW BRIEFLY EXPLAIN 8 OF THE MOST COMMON CYBER-ATTACKS._
 Es un tipo de ciberataque el cual consiste en el robo de información confidencial, contraseña y otros datos importantes mediante el envió de un correo electrónico, mensaje de texto los cuales son de atractivo o llama la atención del usuario, el cual al ingresar a este link permite el acceso remoto de quien lanza el ataque para los fines antes mencionados.
 
 It is a type of cyberattack which consists of the theft of confidential information, password and other important data by sending an email, text message which are attractive or draws the user's attention, which by entering this link allows remote access of the one who launches the attack for the aforementioned purposes.
-![image](https://github.com/user-attachments/assets/650105ff-d39f-4c0a-8c9f-4fdd37c207a5)
+
+![image](https://github.com/user-attachments/assets/7c937942-ddea-4094-a325-bcee1ff00a52)
 
 # 2. RANSOMWARE:
 Este tipo de ciberataque que se realiza mediante un malware el cual se encarga de encriptar los archivos de la victima y le bloquea el ingreso a este mediante el cambio de contraseñas, en este caso el atacante realiza un tipo de secuestro de los datos en donde espera una remuneración de cualquier tipo para el desbloqueo de la información de la victima, normalmente se espera el pago en criptomonedas toda vez que su rastreo es mas complejo.
 
+This type of cyberattack is carried out by means of a malware which is responsible for encrypting the victim's files and blocks access to it by changing passwords, in this case the attacker performs a type of data hijacking where he expects a remuneration of any kind for the unlocking of the victim's information, payment in cryptocurrencies is usually expected since its tracking is more complex.
 
+![image](https://github.com/user-attachments/assets/2bd616fa-8eb3-4e80-bb08-e036ca7a458f)
 
 # 3. DENIAL OF SERVICE:
 Es un ataque con el cual se logra dene-gar el servicio de una pagina sobrepasando la capacidad de respuesta al saturar la pagina con mas solicitudes de las que puede gestionar esta, lo que genera un blo-queo o (denegación de servicio) al no tener capacidad de respuesta.
