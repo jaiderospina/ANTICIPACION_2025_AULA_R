@@ -99,5 +99,9 @@
 # KEYLOGGERS
 ![KEYLOGGERS](https://www.fortinet.com/content/dam/fortinet/images/cyberglossary/types-keyloggers.png)
 * Definicion: El software keylogger es más común que el hardware, porque no se necesita acceso físico al dispositivo objetivo. El software keylogger funciona como otro software malicioso: se infiltra en el dispositivo a través de enlaces o archivos adjuntos maliciosos, o incluso mediante exploits o troyanos. Un keylogger se ejecuta silenciosamente en el fondo del ordenador hasta que lo descubra y lo elimine. 
+* Ejemplo:En Virginia - Estados Unidos, un estudiante universitario de 21 años de edad llamado Zachary James diseño un software malicioso bajo la modalidad de keylogger, que posteriormente comercializo a mas de 3.000 mil personas y con el cual infectaronmas de 16.000 computadoras logrando robar las credenciales  yregistrar las pulsaciones de sus victimas 
+* Referencias:
+* https://www.avast.com/es-es/c-keylogger
+* https://www.welivesecurity.com/la-es/2017/01/16/preso-crear-vender-un-keylogger/
 
 
