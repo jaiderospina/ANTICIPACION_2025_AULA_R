@@ -110,6 +110,10 @@ En 2019, un ataque de SQL Injection comprometió más de 20 millones de registro
 
 El XSS es un ataque que permite a un atacante inyectar scripts maliciosos en páginas web vistas por otros usuarios, comprometiendo sus datos o dispositivos (Kirda et al., 2006).
 
+#### Contextualización Definición
+![Contextualización de la Definición](Imagenes/ataque-xxs-blog-hostalia-hosting.jpg)
+https://www.avast.com/es-es/c-sql-injection/
+
 ### Ejemplo Conceptual
 
 Un atacante inserta un script en un foro en línea que captura cookies de sesión de los usuarios que visualizan el mensaje.
