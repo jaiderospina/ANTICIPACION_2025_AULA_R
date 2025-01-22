@@ -7,6 +7,7 @@ TOP 8 DE TIPOS DE CIBER ATAQUES
 **6.	Ataques Man-in-the-Middle (MitM)**
 
    Un ataque Man-in-the-Middle (MitM) es una técnica cibernética en la que un atacante intercepta, escucha o manipula las comunicaciones entre dos partes (por ejemplo, entre un usuario y un servidor) sin que las partes involucradas lo detecten. Este tipo de ataque permite al atacante acceder a información confidencial, modificar los datos transmitidos o incluso hacerse pasar por una de las partes para engañar a la otra.
+   
 ![image](https://github.com/user-attachments/assets/32b8e7c2-33f2-4e88-889b-2784f349a974)
 
  
