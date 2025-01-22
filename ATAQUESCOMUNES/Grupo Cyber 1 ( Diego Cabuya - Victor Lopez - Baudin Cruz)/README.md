@@ -168,6 +168,7 @@ En 2019, el Departamento de Seguridad Nacional de EE. UU. advirtió sobre ataque
 - Halfond, W. G., Viegas, J., & Orso, A. (2006). A Classification of SQL Injection Attacks and Countermeasures. *IEEE International Symposium on Secure Software Engineering*. DOI: 10.1109/ISSRE.2006.27
 - IBM. (n.d.). Man-in-the-middle (MITM) attacks. Recuperado de https://www.ibm.com/think/topics/man-in-the-middle
 - IBM. (n.d.). Injection attacks. Recuperado de https://www.ibm.com/docs/pt/snips/4.6.0?topic=categories-injection-attacks
+- IBM. (n.d.). Cross-Site Scripting (XSS) vulnerabilities. Recuperado de https://www.ibm.com/security/learn/cross-site-scripting/
 - Jakobsson, M., & Myers, S. (2006). Phishing and Countermeasures: Understanding the Increasing Problem of Electronic Identity Theft. *Wiley-Interscience*. ISBN: 978-0471789622
 - Kaspersky Lab. (2014). *Man-in-the-Middle Attacks: An Overview*. Recuperado de [https://www.kaspersky.com/resource-center/threats/man-in-the-middle-attacks](https://www.kaspersky.com/resource-center/threats/man-in-the-middle-attacks)
 - Kharraz, A., Arshad, S., Mulliner, C., Robertson, W., & Kirda, E. (2015). Cutting the Gordian Knot: A Look Under the Hood of Ransomware Attacks. *Proceedings of the 12th Conference on Detection of Intrusions and Malware & Vulnerability Assessment*. DOI: 10.1007/978-3-319-20550-2_10
