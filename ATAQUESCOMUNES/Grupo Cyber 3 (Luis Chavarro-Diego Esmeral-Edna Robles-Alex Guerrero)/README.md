@@ -49,10 +49,10 @@ ________________________________________________________________________________
 
 ![Sql Injection](https://images.spiceworks.com/wp-content/uploads/2022/05/13064934/Functioning-of-an-SQL-Injection.png)
 
-
 Fuente: https://latam.kaspersky.com/resource-center/definitions/sql-injection
 
 # 6. CROSS SITE SCRIPTING:
+
 
 
 # 7. ZERO DAY EXPLOITS:
