@@ -9,7 +9,7 @@
 3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)
 4.	Inyección de SQL
    
-```javascript const color = "blue"; // **5.	Ataques Man-in-the-Middle (MitM)**```
+```javascript const color = "blue"; //**5.	Ataques Man-in-the-Middle (MitM)**```
 
    Un ataque Man-in-the-Middle (MitM) es una técnica cibernética en la que un atacante intercepta, escucha o manipula las comunicaciones entre dos partes (por ejemplo, entre un usuario y un servidor) sin que las partes involucradas lo detecten. Este tipo de ataque permite al atacante acceder a información confidencial, modificar los datos transmitidos o incluso hacerse pasar por una de las partes para engañar a la otra.
    
