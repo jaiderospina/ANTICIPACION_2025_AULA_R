@@ -6,7 +6,7 @@ La defensa en profundidad es un enfoque estratégico de ciberseguridad basado en
 
 Este enfoque incluye la protección en distintos niveles, como la infraestructura física, las redes, los sistemas, las aplicaciones, los datos y las personas, para garantizar la resiliencia ante posibles fallos de seguridad o errores humanos. 
 
-** A continuación, se presenta un cuadro descriptivo sobre el modelo de **defensa en profundidad** para la ciberseguridad, ejemplos prácticos y preguntas orientadoras al tema.  
+A continuación, se presenta un cuadro descriptivo sobre el modelo de **defensa en profundidad** para la ciberseguridad, ejemplos prácticos y preguntas orientadoras al tema.  
 
 ---
 
