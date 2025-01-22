@@ -80,7 +80,7 @@ Fuente: https://latam.kaspersky.com/resource-center/definitions/sql-injection
 
 
 # 7. ZERO DAY EXPLOITS:
-Un exploit de día cero es un código que los atacantes usan para aprovechar una vulnerabilidad de seguridad desconocida en un sistema. El término "día cero" se refiere a que los desarrolladores no han tenido tiempo para corregir el fallo antes de que los atacantes lo exploten.
+Un exploit de día cero es un código que los atacantes usan para aprovechar una vulnerabilidad de seguridad desconocida en un sistema. El término "día cero" se refiere a que los desarrolladores no han tenido tiempo para corregir el fallo antes de que los atacantes lo exploten. (fortinet, 2024)
 
 _A zero-day exploit is code that attackers use to exploit an unknown security vulnerability in a system. The term “zero-day” refers to the fact that developers have not had time to fix the flaw before attackers exploit it._
 
@@ -90,10 +90,17 @@ FUENTES:
 1. https://www.google.com/imgres?q=zero%20day%20exploits&imgurl=https%3A%2F%2Fcloudkul.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F05%2Fzero-dayjpg&imgrefurl=https%3A%2F%2Fcloudkul.com%2Fblog%2Fimpact-of-zero-day-attacks-on-a-companys-productivity%2F&docid=dVe7uhLUStiX4M&tbnid=42Ct_bV_FCDuwM&vet=12ahUKEwj74KyX-omLAxWgRDABHV2iEjQQM3oECBAQAA..i&w=1218&h=848&hcb=2&ved=2ahUKEwj74KyX-omLAxWgRDABHV2iEjQQM3oECBAQAA
 
 # 8. DNS SPOOFING:
+DNS Spoofing, también conocido como envenenamiento de caché DNS (DNS cache poisoning), es un ataque cibernético en el que un atacante manipula el sistema de resolución de nombres de dominio (DNS) de una red para redirigir el tráfico de los usuarios a sitios web maliciosos o no deseados. El objetivo principal de este ataque es alterar la forma en que los servidores DNS resuelven los nombres de dominio, haciéndolos apuntar a direcciones IP incorrectas. (Sundararajan, V., & Krishnamurthy, S. 2011). 
+
+DNS Spoofing, also known as DNS cache poisoning, is a cyber attack in which an attacker manipulates a network's domain name resolution system (DNS) to redirect user traffic to malicious or unwanted websites. The main goal of this attack is to alter the way DNS servers resolve domain names, pointing them to incorrect IP addresses.
+
+![image](https://github.com/user-attachments/assets/505bd7f7-925e-4bfe-ad2b-e5f049027af0)
+
+Fuente: https://www.keycdn.com/img/support/dns-spoofing.png
 
 # BIBLIOGRAFIA
 
 FORTINET. (s.f.). Tipos de ciberataques: ataque DDoS, ransomware y más. Obtenido de https://www.fortinet.com/lat/resources/cyberglossary/types-of-cyber-attacks
 
-
+Sundararajan, V., & Krishnamurthy, S. (2011). DNS Security: A Comprehensive Guide to the Domain Name System and Security Mechanisms. Wiley.
 
