@@ -42,6 +42,18 @@ This type of cyberattack is carried out by means of a malware which is responsib
 
 ![image](https://github.com/user-attachments/assets/2bd616fa-8eb3-4e80-bb08-e036ca7a458f)
 
+La evolución del ransomware
+
+Segun www.fortinet.com El ransomware ha evolucionado y ahora hay varios tipos. Algunos ataques de ransomware simplemente cifran archivos, mientras que otros destruyen los sistemas de archivos. Algunos delincuentes cibernéticos están únicamente motivados financieramente y, de hecho, volverán a operar los sistemas después del pago. Otros tipos de atacantes no son y no restaurarán las operaciones después del pago a pesar o, tal vez, por motivos políticos o de otro tipo.
+
+Actualmente, muchas campañas de ransomware emplean múltiples medidas y métodos para obtener pagos. Además de mantener sistemas para rescate, algunos ciberdelincuentes roban datos y amenazan con liberarlos si no se paga el  rescate. Otros atacantes incluso llegan a ponerse en contacto con los clientes cuyos datos han robado en un intento de cobrarles el pago.
+
+Los ataques de ransomware han paralizado a organizaciones enteras durante horas, días o más. La última clase de amenazas de ransomware requiere mucho más que solo un proceso de copia de seguridad y restauración proactiva.
+
+Inicialmente, la protección contra el ransomware con un proceso de copia de seguridad segura y restauración proactiva a menudo era suficiente para descolgar a una organización. Sin embargo, las últimas versiones de ransomware requieren soluciones de seguridad más integrales.
+
+FUENTE: https://www.fortinet.com/lat/resources/cyberglossary/how-to-prevent-ransomware
+
 # 3. DENIAL OF SERVICE:
 Es un ataque con el cual se logra dene-gar el servicio de una pagina sobrepasando la capacidad de respuesta al saturar la pagina con mas solicitudes de las que puede gestionar esta, lo que genera un blo-queo o (denegación de servicio) al no tener capacidad de respuesta.
 
