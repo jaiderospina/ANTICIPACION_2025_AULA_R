@@ -117,7 +117,7 @@ En 2021, se identificaron múltiples vulnerabilidades de XSS en Microsoft Teams 
 Los Zero-Day Exploits son ataques que aprovechan vulnerabilidades desconocidas en software antes de que los desarrolladores puedan solucionarlas (Bilge & Dumitras, 2012).
 
 #### Contextualización Definición
-![Contextualización de la Definición](imagines/ZERO DAY EXPLOIT.pdf)
+![Contextualización de la Definición](Imagenes/ZERO DAY EXPLOIT.pdf)
 https://www.spanning.com/blog/denial-of-service-attacks-web-based-application-security-part-7/
 
 ### Ejemplo Conceptual
