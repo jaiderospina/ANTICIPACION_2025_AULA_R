@@ -1,7 +1,7 @@
-**Mayor. Miguel Giraldo Gaitán**
-**Mayor. Andrés Camilo  Cotes Cadena**
-**Mayor. Diego Hernando Rivas Camacho**
-**Mayor. Danilo Saba Corredor**
+**Mayor. Miguel Giraldo Gaitán**  
+**Mayor. Andrés Camilo  Cotes Cadena**  
+**Mayor. Diego Hernando Rivas Camacho**  
+**Mayor. Danilo Saba Corredor**  
 
 TOP 8 DE TIPOS DE CIBER ATAQUES
 1.	Phishing
