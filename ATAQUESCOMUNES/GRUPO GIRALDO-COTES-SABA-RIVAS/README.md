@@ -46,6 +46,7 @@ o	Dependiendo del nivel de cifrado, puede leer la información o incluso modific
 •	Autenticación multifactor: Agrega una capa extra de seguridad para proteger tus cuentas incluso si las credenciales son robadas.
 
 **6.	Ataques de Ingeniería Social**
+
 Los ataques de ingeniería social son tácticas utilizadas por los ciberdelincuentes para manipular a las personas y obtener información confidencial o acceso no autorizado a sistemas, aprovechando las emociones, la confianza o el desconocimiento de las víctimas. Estos ataques se centran en explotar el "eslabón más débil" de la ciberseguridad: el factor humano.
 
 ![image](https://github.com/user-attachments/assets/3a490ea3-a62c-4470-8379-18b3bdb86d70)
