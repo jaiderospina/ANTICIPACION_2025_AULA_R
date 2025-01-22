@@ -3,7 +3,7 @@
 **Mayor. Diego Hernando Rivas Camacho**  
 **Mayor. Danilo Saba Corredor**  
 
-                                            **TOP 8 DE TIPOS DE CIBER ATAQUES**
+                                        **TOP 8 DE TIPOS DE CIBER ATAQUES**
 1.	Phishing
 2.	Malware
 3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)
@@ -57,57 +57,53 @@ Los ataques de ingeniería social son tácticas utilizadas por los ciberdelincue
 ![image](https://github.com/user-attachments/assets/3a490ea3-a62c-4470-8379-18b3bdb86d70)
 
  
-**a.**	*Características Claves de los Ataques de Ingeniería Social* 
-•	Manipulación Psicológica:
-Los atacantes emplean técnicas que apelan a la curiosidad, el miedo, la urgencia o la confianza de las víctimas.
-
-•	Sin Necesidad de Habilidades Técnicas Avanzadas:
-No siempre requieren métodos sofisticados; pueden depender únicamente de la interacción humana.
-
-•	Objetivo Principal:
-Obtener credenciales, información financiera, acceso a redes o sistemas, o inducir a las víctimas a realizar acciones específicas (como transferencias de dinero).
+  **a.**	*Características Claves de los Ataques de Ingeniería Social*
+    •	Manipulación Psicológica: Los atacantes emplean técnicas que apelan a la curiosidad, el miedo, la urgencia o la confianza de las víctimas.
+    •	Sin Necesidad de Habilidades Técnicas Avanzadas:No siempre requieren métodos sofisticados; pueden depender únicamente de la interacción humana. 
+    •	Objetivo Principal: Obtener credenciales, información financiera, acceso a redes o sistemas, o inducir a las víctimas a realizar acciones específicas (como transferencias de dinero).
 
 **b.**	*Tipos Comunes de Ataques de Ingeniería Social*
-•	Phishing:
-o	Correos electrónicos o mensajes fraudulentos que se hacen pasar por entidades legítimas para obtener información sensible.
-o	Ejemplo: Un correo falso de tu banco solicitando verificar tu cuenta.
 
-•	Spear Phishing:
-o	Variante dirigida específicamente a un individuo o grupo con información personalizada para aumentar la credibilidad del mensaje.
-o	Ejemplo: Un correo personalizado dirigido a un ejecutivo de una empresa para obtener acceso a datos corporativos.
+  •	Phishing: o	Correos electrónicos 
+    o mensajes fraudulentos que se hacen pasar por entidades legítimas para obtener información sensible. 
+    o	Ejemplo: Un correo falso de tu banco solicitando verificar tu cuenta.
 
-•	Vishing (Voice Phishing):
-o	Ataques realizados a través de llamadas telefónicas, donde el atacante finge ser un representante de una organización legítima.
-o	Ejemplo: Una llamada de "soporte técnico" solicitando acceso remoto a tu computadora.
+  •	Spear Phishing:
+    o	Variante dirigida específicamente a un individuo o grupo con información personalizada para aumentar la credibilidad del mensaje.
+    o	Ejemplo: Un correo personalizado dirigido a un ejecutivo de una empresa para obtener acceso a datos corporativos.
 
-•	Smishing (SMS Phishing):
-o	Mensajes de texto fraudulentos que contienen enlaces o solicitudes de datos sensibles.
-o	Ejemplo: Un SMS que dice que ganaste un premio y solicita tu tarjeta de crédito para reclamarlo.
+  •	Vishing (Voice Phishing):
+    o	Ataques realizados a través de llamadas telefónicas, donde el atacante finge ser un representante de una organización legítima.
+    o	Ejemplo: Una llamada de "soporte técnico" solicitando acceso remoto a tu computadora.
 
-•	Pretexting:
-o	El atacante crea un escenario ficticio para engañar a la víctima y obtener información.
-o	Ejemplo: Un "empleado de IT" solicita tus credenciales para "actualizar" tu sistema.
+  •	Smishing (SMS Phishing): 
+    o	Mensajes de texto fraudulentos que contienen enlaces o solicitudes de datos sensibles.
+    o	Ejemplo: Un SMS que dice que ganaste un premio y solicita tu tarjeta de crédito para reclamarlo.
 
-•	Baiting:
-o	Usa señuelos para tentar a la víctima, como dispositivos USB infectados dejados en lugares visibles.
-o	Ejemplo: Un pendrive etiquetado como "Confidencial" dejado en una oficina.
+  •	Pretexting:
+    o	El atacante crea un escenario ficticio para engañar a la víctima y obtener información.
+    o	Ejemplo: Un "empleado de IT" solicita tus credenciales para "actualizar" tu sistema.
 
-•	Tailgating:
-o	El atacante accede físicamente a áreas restringidas aprovechando la cortesía de las personas.
-o	Ejemplo: Seguir a un empleado a través de una puerta de seguridad sin identificarse.
+  •	Baiting:
+    o	Usa señuelos para tentar a la víctima, como dispositivos USB infectados dejados en lugares visibles.
+    o	Ejemplo: Un pendrive etiquetado como "Confidencial" dejado en una oficina.
 
-**c.**	*Cómo Protegerse de los Ataques de Ingeniería Social*
-•	Concienciación y Capacitación:
-o	Enseñar a los usuarios a identificar señales de manipulación, como correos sospechosos o solicitudes inusuales.
+  •	Tailgating:
+    o	El atacante accede físicamente a áreas restringidas aprovechando la cortesía de las personas.
+    o	Ejemplo: Seguir a un empleado a través de una puerta de seguridad sin identificarse.
 
-•	Verificación de Identidad:
-o	Confirmar la autenticidad de solicitudes de información a través de canales oficiales.
+  **c.**	*Cómo Protegerse de los Ataques de Ingeniería Social*
+     •	Concienciación y Capacitación:
+      o	Enseñar a los usuarios a identificar señales de manipulación, como correos sospechosos o solicitudes inusuales.
 
-•	Políticas de Seguridad:
-o	Establecer reglas claras para el acceso y manejo de información sensible.
+    •	Verificación de Identidad:
+      o	Confirmar la autenticidad de solicitudes de información a través de canales oficiales.
 
-•	Tecnología de Soporte:
-o	Utilizar filtros antiphishing, autenticación multifactor (MFA) y sistemas de detección de intrusos (IDS).
+    •	Políticas de Seguridad:
+      o	Establecer reglas claras para el acceso y manejo de información sensible.
+      
+    •	Tecnología de Soporte:
+      o	Utilizar filtros antiphishing, autenticación multifactor (MFA) y sistemas de detección de intrusos (IDS).
 
 *OpenAI. (2025). Definición y tipos de ataques de ingeniería social. Recuperado el 15 de enero de 2025, de [tu plataforma de consulta].*
 
