@@ -48,6 +48,7 @@ A continuación, se presenta un cuadro descriptivo sobre el modelo de **defensa 
 
    ## Taller en Clase-Casa.
 **Trabajo en Grupo**
+
 **Objetivo**
 
 Analizar la Toma de Constantinopla en 1453 desde la perspectiva del modelo de defensa en profundidad en ciberseguridad, estableciendo un símil entre las estrategias defensivas empleadas por los bizantinos y las capas que constituyen este modelo.
