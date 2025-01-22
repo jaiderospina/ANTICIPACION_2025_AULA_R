@@ -26,3 +26,6 @@ Un ataque de hombre en el medio (MiTM) es una de las principales amenazas cibern
 ## 6.CROSS-SITE SCRIPTING (XSS)
  actores maliciosos logran inyectar un script malicioso en un sitio web para luego ser procesado y ejecutado. Comúnmente, este proceso que se basa en la confianza que tiene el sitio sobre la entrada de los datos, consiste en enviar la URL con el payload precargado al usuario víctima con un objetivo determinado: robar datos personales del usuario, cookies de sesión, implementar técnicas de ingeniería social, entre otras.
 ![](https://www.spanning.com/blog/cross-site-scripting-web-based-application-security-part-3/cross-site-scripting-example.png)
+## 7.ZERO DAY EXPLOITS
+Un zero day exploit o vulnerabilidad de día cero es un fallo de seguridad informática que nunca se había visto antes. Por lo general, un atacante sondea a un sistema hasta que descubre una vulnerabilidad.
+![](https://documents.trendmicro.com/images/tex/articles/flash-zero-day-chain.jpg)
