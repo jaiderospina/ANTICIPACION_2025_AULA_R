@@ -134,6 +134,10 @@ En 2021, Microsoft informó que actores maliciosos explotaron vulnerabilidades d
 
 El DNS Spoofing consiste en comprometer el sistema de nombres de dominio para redirigir a los usuarios a sitios falsos sin su conocimiento (Abdullah et al., 2010).
 
+#### Contextualización Definición
+![Contextualización de la Definición](Imagenes/DNOSpoofing)
+https://flashstart.com/es/dns-spoofing-que-es-por-que-es-peligroso/
+
 ### Ejemplo Conceptual
 
 Un atacante altera registros DNS para que una URL legítima dirija a un sitio web malicioso diseñado para robar información de los usuarios.
