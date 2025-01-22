@@ -46,9 +46,51 @@ A continuación, se presenta un cuadro descriptivo sobre el modelo de **defensa 
    - https://global-strategy.org/repensando-la-estrategia-de-defensa-en-profundidad-incorporando-capacidades-claves-para-aprender-y-anticipar-los-movimientos-del-adversario-digital/
 
 
-   ## Taller en Clase.
+   ## Taller en Clase-Casa.
+**Trabajo en Grupo**
+**Objetivo**
 
-De manera individual realizar un cuadro que contemple 
-   Relación entre la Toma de Constantinopla y el Modelo de Defensa en Profundidad
-Objetivo del trabajo:
 Analizar la Toma de Constantinopla en 1453 desde la perspectiva del modelo de defensa en profundidad en ciberseguridad, estableciendo un símil entre las estrategias defensivas empleadas por los bizantinos y las capas que constituyen este modelo.
+
+**NOTA**
+La caída de Constantinopla en 1453 puede ser interpretada como un caso donde un modelo de defensa en profundidad fue superado debido a la sofisticación de los ataques y las vulnerabilidades en las capas defensivas. 
+
+### **Enunciado: Relación entre la Toma de Constantinopla y el Modelo de Defensa en Profundidad**  
+
+**Objetivo del trabajo:**  
+Analizar la Toma de Constantinopla en 1453 desde la perspectiva del modelo de defensa en profundidad en ciberseguridad, estableciendo un símil entre las estrategias defensivas empleadas por los bizantinos y las capas que constituyen este modelo. 
+
+---
+
+**Instrucciones:**  
+
+1. **Introducción:**  
+   - Breve descripción del modelo de defensa en profundidad en ciberseguridad.  
+   - Contexto histórico de la Toma de Constantinopla.  
+
+2. **Desarrollo:**  
+   - Identificación de las principales capas del modelo de defensa en profundidad (física, perimetral, red, endpoint, aplicaciones, datos, usuarios).  
+   - Explicación de cómo las estrategias defensivas de Constantinopla se relacionan con cada una de estas capas.  
+   - Análisis de los factores que llevaron al fracaso de cada capa defensiva frente al ataque otomano.  
+
+3. **Conclusión:**  
+   - Reflexión sobre la importancia de un modelo de defensa en profundidad actualizado y adaptable frente a amenazas emergentes.  
+   - Lecciones aprendidas de este análisis aplicables a la ciberseguridad moderna.  
+
+---
+
+**Condiciones de entrega mínimas:**  
+1. **Extensión:** 2 a 4 páginas, formato A4, márgenes de 2.5 cm, interlineado 1.5, fuente Times New Roman o Arial tamaño 12.  
+2. **Citas y referencias:** Formato APA (7ª edición) para cualquier fuente consultada.  
+3. **Contenido mínimo:**  
+   - Una tabla o diagrama que relacione las capas de defensa con los eventos de la Toma de Constantinopla.  
+   - Al menos dos ejemplos específicos por capa defensiva analizada.  
+4. **Originalidad:** El trabajo debe ser único y evitar el plagio.   
+5. **Formato de entrega:** Archivo en Word.
+6. ** Se sustenta en próxima clase mediante una presentación de máximo 5 minutos.
+7. ** Además del trabajo escrito realizar la presentación cempleando el formato de la escuela.
+
+**Fecha límite:** *27 de enero 2025*  
+
+---
+
