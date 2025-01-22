@@ -8,7 +8,7 @@ _GRUPO CREADO PARA DESARROLLAR ELEMENTOS DE LA MATERIA ANTICIPACIÓN DE AMENAZAS
 2. DOLMAN LOPEZ ZAPATA - **EJC**
 3. EDUARDO FABRE CUJAR - **ARC**
 
-_## INTRODUCCIÓN_
+## _INTRODUCCIÓN_
 
 En este documento explicaremos los principales ciberataques los cuales son aquellos que utilizan programas o códigos maliciosos para dañar sistemas, redes o servidores. Algunos de los ciberataques más comunes son:
 
