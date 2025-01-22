@@ -40,6 +40,9 @@ _This is an intrusion-type attack in the middle of a communication between two v
 ![image](https://github.com/user-attachments/assets/36222651-2c9b-4bb7-a180-5d83c9dafff5)
 _FUENTE:https://www.arkoselabs.com/wp-content/uploads/A-man-in-the-middle-attack-simplified-diagram.jpg_
 # 5. SQL INJECTION:
+## Una inyección de SQL, a veces abreviada como SQLi, es un tipo de vulnerabilidad en la que un atacante usa un trozo de código SQL (lenguaje de consulta estructurado) para manipular una base de datos y acceder a información potencialmente valiosa. Es uno de los tipos de ataques más frecuentes y amenazadores, ya que puede atacar prácticamente cualquier sitio o aplicación web que use una base de datos basada en SQL.
+
+## An SQL injection, sometimes abbreviated as SQLi, is a type of vulnerability where an attacker uses a piece of SQL code (structured query language) to manipulate a database and access potentially valuable information. It is one of the most common and threatening types of attacks, as it can target virtually any website or web application that uses an SQL-based database.
 
 ![Sql Injection](https://images.spiceworks.com/wp-content/uploads/2022/05/13064934/Functioning-of-an-SQL-Injection.png)
 
