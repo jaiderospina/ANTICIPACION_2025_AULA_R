@@ -24,5 +24,5 @@ Explotan vulnerabilidades en aplicaciones para ejecutar comandos maliciosos:
 •	Inyección SQL: Inserta comandos SQL maliciosos para acceder o modificar bases de datos.
 •	Cross-Site Scripting (XSS): Inyecta scripts en sitios web para ejecutar código en los navegadores de los usuarios.
 •	Inyección de comandos: Inserta comandos del sistema operativo en aplicaciones vulnerables
-![](.https://www.avast.com/es-es/c-sql-injection)
+![](.https://www.avast.com/es-es/c-sql-injection)https://www.google.com/url?[][](sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiz6_jHiIqLAxXXFmIAHYmbItwQFnoECBcQAQ&url=https%3A%2F%2Flatam.kaspersky.com%2Fresource-center%2Fdefinitions%2Fbrute-force-attack%3Fsrsltid%3DAfmBOorMMK22EUsyDLgJ3rreDrnFlho-S0-hXX6I5r1y7IYz8-CaoTOz&usg=AOvVaw05i4qPmPn3HXq6KQdtFGFr&opi=89978449[] 
 
