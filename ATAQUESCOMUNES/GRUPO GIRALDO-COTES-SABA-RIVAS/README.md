@@ -1,3 +1,6 @@
+**INTRIDUCCIÓN**  
+Básicamente, bajo la denominación de virus se ha designado cualquier aplicación que modifica a otras, escribiendo o alterando su código, con objeto de realizar alguna acción significativa. Esta idea como tal se toma de la definición propia de un virus biológico. Sin embargo el virus electrónico ha transcendido mucho más allá de aquella idea original. Ya no se habla solamente de programas que cumplen esta función condicional de replicarse, sino que queda exportada a una categoría de aplicaciones denominada malware (malicious software)
+
 **Mayor. Miguel Giraldo Gaitán**  
 **Mayor. Andrés Camilo  Cotes Cadena**  
 **Mayor. Diego Hernando Rivas Camacho**  
@@ -107,5 +110,3 @@ Los ataques de ingeniería social son tácticas utilizadas por los ciberdelincue
 *OpenAI. (2025). Definición y tipos de ataques de ingeniería social. Recuperado el 15 de enero de 2025, de [tu plataforma de consulta].*
 
    
-7.	Ataques Zero-Day
-8.	Ataques de Contraseñas
