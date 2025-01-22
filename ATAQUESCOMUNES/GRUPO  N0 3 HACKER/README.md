@@ -33,4 +33,6 @@ El ransomware es solo una de las múltiples formas que puede adoptar el malware,
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ikusi.com%2Fmx%2Fblog%2Fque-es-malware%2F&psig=AOvVaw1rAOyjH7K3RLbO3diwXeJj&ust=1737660106219000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCKiYlsiGiosDFQAAAAAdAAAAABAJ)
 
 
+RAMSOMWARE
 
+Un ramsomware es un programa (llamado también malware) que una vez ejecutado en el sistema operativo, impide al usuario acceder a sus datos o ejecutar programas y exige un pago en concepto de rescate a fin de poder volver acceder de nuevo a ellos. El pago se exige a través de criptomonedas donde se asegura el anonimato y la imposibilidad de rastrear el pago y en algunos casos (pocos) mediante tarjeta de crédito / débito.
