@@ -8,7 +8,6 @@
 3. Diego Esmeral
 4. Luis Chavarro
 
-<div align="center">
 
 ## iNTRODUCTION: 
 A CONTINUACION, EXPLICAREMOS DE MANERA MUY BREVE, 8 DE LOS CIBER ATAQUES MAS COMUNES.
