@@ -26,3 +26,9 @@ Explotan vulnerabilidades en aplicaciones para ejecutar comandos maliciosos:
 •	Inyección de comandos: Inserta comandos del sistema operativo en aplicaciones vulnerables
 ![](.https://www.avast.com/es-es/c-sql-injection)
 
+##**Ataques de Fuerza Bruta**
+Consisten en probar múltiples combinaciones de contraseñas o claves hasta encontrar la correcta. Variantes:
+•	Fuerza bruta simple: Prueba combinaciones una por una.
+•	Ataques de diccionario: Usa listas predefinidas de palabras o contraseñas comunes.
+•	Ataques híbridos: Combina ataques de fuerza bruta y de diccionario.
+[](https://latam.kaspersky.com › brute-force-attack)
