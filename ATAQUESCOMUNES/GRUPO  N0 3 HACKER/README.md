@@ -50,6 +50,9 @@ La variedad de ataques cibernéticos presenta un desafío significativo para la 
 
 ## **BIBLIOGRAFIA**
 
+
 Krombholz, K., Hobel, H., & Huber, M. (2015). Phishing in different forms: A classification of phishing techniques. *Proceedings of the 11th International Conference on Cyber Warfare and Security*. Academic Conferences International Limited.
+
 Mirkovic, J., & Reiher, P. (2004). A DNS-based Approach to DDoS-Resistant Web Services. *The Computer Journal*, 49(4), 496-511
+
 Stallings, W. (2018). *Computer Security: Principles and Practice*. Pearson.
