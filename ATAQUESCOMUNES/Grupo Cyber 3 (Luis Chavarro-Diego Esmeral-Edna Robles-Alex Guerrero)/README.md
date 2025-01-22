@@ -41,7 +41,7 @@ _This is an intrusion-type attack in the middle of a communication between two v
 _FUENTE:https://www.arkoselabs.com/wp-content/uploads/A-man-in-the-middle-attack-simplified-diagram.jpg_
 # 5. SQL INJECTION:
 
-![Sql Injection]("/Users/corsa/Downloads/sql_example_02.png")
+![Sql Injection](https://images.spiceworks.com/wp-content/uploads/2022/05/13064934/Functioning-of-an-SQL-Injection.png)
 
 # 6. CROSS SITE SCRIPTING:
 
