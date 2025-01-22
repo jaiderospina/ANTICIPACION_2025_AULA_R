@@ -5,7 +5,8 @@
 3. MY CARLOS REY - **EJC**
 4. MY MAURICIO GOMEZ RODRIGUEZ - **EJC**
 ## _INTRODUCCION_
-EN EL PRESENTE DOCUMENTO SE INVESTIGA UN MUNDO CADA VEZ MAS DIGITAL Y DONDE LAS AMENAZAS CIBERNETICAS REPRESENTAN UN GRAN DESAFIOPARA LOS GOBIERNOS, EMPRESAS  Y USUARIOS INDIVIDUALES EXIGIENDO ESTRATEGIAS PROACTIVAS PARA ADELANMTARSE A LA AMENAZA. 
+
+En el presente documento se investiga un mundo cada vez más digital y donde las amenazas cibernéticas representan un gran desafiara los gobiernos, empresas y usuarios individuales exigiendo estrategias proactivas para adelantarse a la amenazas
 
 ## TIPOS DE AMENAZAS
 
