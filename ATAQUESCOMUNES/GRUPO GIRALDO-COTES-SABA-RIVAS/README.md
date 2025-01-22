@@ -3,7 +3,7 @@
 **Mayor. Diego Hernando Rivas Camacho**  
 **Mayor. Danilo Saba Corredor**  
 
-TOP 8 DE TIPOS DE CIBER ATAQUES
+                                                TOP 8 DE TIPOS DE CIBER ATAQUES
 1.	Phishing
 2.	Malware
 3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)
