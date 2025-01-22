@@ -34,3 +34,4 @@ El spoofing es una técnica de suplantación de identidad utilizada para engaña
 ![](https://celltrackingapps.com/wp-content/uploads/2023/05/types-of-spoofing-1024x634.png)
 ## BIBLIOGRAFIA
 1. J. Walker, B. Williams and G. Skelton, Cyber security for emergency management, Proceedings of the IEEE International Conference on Technologies for Homeland Security, pp. 476–480, 2010.
+2. Kaspersky. (s. f.). ¿Qué es la suplantación? Definición y explicación. Recuperado de https://latam.kaspersky.com/resource-center/definitions/spoofing
