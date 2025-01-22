@@ -18,7 +18,7 @@ es una técnica de ciberataque utilizada para engañar a los usuarios y obtener 
 ## **Ataques de Denegación de Servicio (DoS)**
 
 Son un tipo de ataque cibernético diseñado para agotar los recursos de un sistema o red, impidiendo que los usuarios legítimos accedan a los servicios o la información que necesitan. Estos ataques pueden afectar a servidores, redes o aplicaciones, y son una amenaza seria para la disponibilidad de los recursos en el entorno digital [Tipos de Ciberataques](https://raw.githubusercontent.com/username/repositoryname/main/images/tipos_ciberataques.png)
-![](https://www.cloudflare.com/es-es/learning/ddos/what-is-a-ddos-attack.png)
+![]([https://www.cloudflare.com/es-es/learning/ddos/what-is-a-ddos-attack](https://images.app.goo.gl/VhkJNH5Kma1hU6jw5.png)
 
 ## **Ataques de Inyección**
 
