@@ -43,3 +43,5 @@ Este enfoque incluye la protección en distintos niveles, como la infraestructur
    - https://ciberseguridad.com/guias/prevencion-proteccion/defensa-profundidad-did/
    - https://www.linkedin.com/pulse/qu%C3%A9-es-la-defensa-en-profundidad-eusebio-rodriguez/
    - https://ciberseguridad.com/guias/prevencion-proteccion/defensa-profundidad-did/
+   - https://global-strategy.org/repensando-la-estrategia-de-defensa-en-profundidad-incorporando-capacidades-claves-para-aprender-y-anticipar-los-movimientos-del-adversario-digital/
+   - 
