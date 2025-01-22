@@ -14,7 +14,7 @@ A CONTINUACION, EXPLICAREMOS DE MANERA MUY BREVE, 8 DE LOS CIBER ATAQUES MAS COM
 _WE WILL NOW BRIEFLY EXPLAIN 8 OF THE MOST COMMON CYBER-ATTACKS._
 
 # 1. PHISHING:
-Es un tipo de ciberataque el cual consiste en el robo de información confidencial, contraseña y otros datos importantes mediante el envió de un correo electrónico, mensaje de texto los cuales son de atractivo o llama la atención del usuario, el cual al ingresar a este link permite el acceso remoto de quien lanza el ataque para los fines antes mencionados.
+Es un tipo de ciberataque el cual consiste en el robo de información confidencial, contraseña y otros datos importantes mediante el envió de un correo electrónico, mensaje de texto los cuales son de atractivo o llama la atención del usuario, el cual al ingresar a este link permite el acceso remoto de quien lanza el ataque para los fines antes mencionados.(FORTINET, 2024)
 
 It is a type of cyberattack which consists of the theft of confidential information, password and other important data by sending an email, text message which are attractive or draws the user's attention, which by entering this link allows remote access of the one who launches the attack for the aforementioned purposes.
 
@@ -43,7 +43,7 @@ This type of cyberattack is carried out by means of a malware which is responsib
 
 La evolución del ransomware
 
-Segun www.fortinet.com El ransomware ha evolucionado y ahora hay varios tipos. Algunos ataques de ransomware simplemente cifran archivos, mientras que otros destruyen los sistemas de archivos. Algunos delincuentes cibernéticos están únicamente motivados financieramente y, de hecho, volverán a operar los sistemas después del pago. Otros tipos de atacantes no son y no restaurarán las operaciones después del pago a pesar o, tal vez, por motivos políticos o de otro tipo.
+Segun www.fortinet.com El ransomware ha evolucionado y ahora hay varios tipos. Algunos ataques de ransomware simplemente cifran archivos, mientras que otros destruyen los sistemas de archivos. Algunos delincuentes cibernéticos están únicamente motivados financieramente y, de hecho, volverán a operar los sistemas después del pago. Otros tipos de atacantes no son y no restaurarán las operaciones después del pago a pesar o, tal vez, por motivos políticos o de otro tipo.(FORTINET, 2024)
 
 Actualmente, muchas campañas de ransomware emplean múltiples medidas y métodos para obtener pagos. Además de mantener sistemas para rescate, algunos ciberdelincuentes roban datos y amenazan con liberarlos si no se paga el  rescate. Otros atacantes incluso llegan a ponerse en contacto con los clientes cuyos datos han robado en un intento de cobrarles el pago.
 
