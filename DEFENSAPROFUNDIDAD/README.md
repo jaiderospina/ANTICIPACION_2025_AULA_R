@@ -93,5 +93,11 @@ Analizar la Toma de Constantinopla en 1453 desde la perspectiva del modelo de de
 
 **Fecha límite:** *27 de enero 2025*  
 
+**NOTA**  
+
+Por acuerdo de clase solo se realizará presentación en clase. 
+Se califica métrica de tiempo ( Tiempo mínimo 6 minutos -  Máximo 7 minutos).
+**Todos los integrantes deben de participar en la presentación**
+
 ---
 
