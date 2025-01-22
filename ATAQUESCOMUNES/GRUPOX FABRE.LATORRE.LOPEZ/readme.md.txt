@@ -1,1 +1,8 @@
 *actividad en clase* 
+
+* GRUPO X *
+
+* INTEGRANTES
+1. LUIS LATORRE
+2. DOLMAN LOPEZ
+3. EDUARDO FABRE *
