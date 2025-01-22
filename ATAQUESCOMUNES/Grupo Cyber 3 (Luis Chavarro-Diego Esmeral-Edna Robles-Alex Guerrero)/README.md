@@ -1,7 +1,39 @@
----
+# Grupo 3 ANTICIPACION DE AMENAZAS
 # Title: "Types of Cyber Attack"
-## Author: Alex Guerrero - Edna Robles - Diego Esmeral - Luis Chavarro
-### _Date_: 21-01-25
+# _Date_: 21-01-25
 
+## Authors: 
+1. Alex Guerrero
+2. Edna Robles
+3. Diego Esmeral
+4. Luis Chavarro
+
+## iNTRODUCTION: 
+A CONTINUACION, EXPLICAREMOS DE MANERA MUY BREVE, 8 DE LOS CIBER ATAQUES MAS COMUNES.
+_WE WILL NOW BRIEFLY EXPLAIN 8 OF THE MOST COMMON CYBER-ATTACKS._
+
+# 1. PHISHING:
+
+
+# 2. RANSOMWARE:
+
+
+# 3. DENIAL OF SERVICE:
+
+
+# 4. MAN IN THE MIDDLE:
+
+
+# 5. SQL INJECTION:
 
 ![Sql Injection]("/Users/corsa/Downloads/sql_example_02.png")
+
+# 6. CROSS SITE SCRIPTING:
+
+
+# 7. ZERO DAYH EXPLOIS:
+
+
+# 8. DNS SPOOFING:
+
+
