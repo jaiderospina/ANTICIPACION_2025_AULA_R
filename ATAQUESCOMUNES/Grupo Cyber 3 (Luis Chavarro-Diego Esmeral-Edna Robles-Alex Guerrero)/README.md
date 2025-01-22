@@ -13,9 +13,13 @@ A CONTINUACION, EXPLICAREMOS DE MANERA MUY BREVE, 8 DE LOS CIBER ATAQUES MAS COM
 _WE WILL NOW BRIEFLY EXPLAIN 8 OF THE MOST COMMON CYBER-ATTACKS._
 
 # 1. PHISHING:
+Es un tipo de ciberataque el cual consiste en el robo de información confidencial, contraseña y otros datos importantes mediante el envió de un correo electrónico, mensaje de texto los cuales son de atractivo o llama la atención del usuario, el cual al ingresar a este link permite el acceso remoto de quien lanza el ataque para los fines antes mencionados.
 
+It is a type of cyberattack which consists of the theft of confidential information, password and other important data by sending an email, text message which are attractive or draws the user's attention, which by entering this link allows remote access of the one who launches the attack for the aforementioned purposes.
 
 # 2. RANSOMWARE:
+Este tipo de ciberataque que se realiza mediante un malware el cual se encarga de encriptar los archivos de la victima y le bloquea el ingreso a este mediante el cambio de contraseñas, en este caso el atacante realiza un tipo de secuestro de los datos en donde espera una remuneración de cualquier tipo para el desbloqueo de la información de la victima, normalmente se espera el pago en criptomonedas toda vez que su rastreo es mas complejo.
+
 
 
 # 3. DENIAL OF SERVICE:
