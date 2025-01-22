@@ -92,6 +92,10 @@ En 2013, cibercriminales usaron ataques MitM para interceptar comunicaciones ent
 
 El SQL Injection es un ataque que permite a un atacante ejecutar comandos maliciosos en una base de datos a través de entradas no seguras en aplicaciones web (Halfond et al., 2006).
 
+#### Contextualización Definición
+![Contextualización de la Definición](Imagenes/SQLinjection.png)
+https://www.avast.com/es-es/c-sql-injection
+
 ### Ejemplo Conceptual
 
 Un campo de inicio de sesión en una página web no valida adecuadamente las entradas, permitiendo que un atacante ingrese un comando SQL que extrae información confidencial de la base de datos.
