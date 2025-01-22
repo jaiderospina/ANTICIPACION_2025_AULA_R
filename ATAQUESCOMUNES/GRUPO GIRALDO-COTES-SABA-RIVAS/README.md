@@ -109,3 +109,53 @@ Los ataques de ingeniería social son tácticas utilizadas por los ciberdelincue
    
 7.	Ataques Zero-Day
 8.	Ataques de Contraseñas
+
+
+7.	**zero-day-exploits:** Un zero day exploit o vulnerabilidad de día cero es un fallo de seguridad informática que nunca se había visto antes. Por lo general, un atacante sondea a un sistema hasta que descubre una vulnerabilidad. Si nunca se ha reportado, entonces es de día cero, porque los desarrolladores han tenido precisamente cero días para corregirlo. Aprovechar el fallo de seguridad es un ataque (o exploit) de día cero, que suele llevar a una vulneración en el sistema objetivo. Las vulnerabilidades de día cero pueden estar disponibles durante años antes de reportarse. Los atacantes que los encuentran suelen vender sus zero day exploits en la darknet o internet oscura.
+
+Como funciona:
+1.	Los desarrolladores implementan una aplicación o actualización a una aplicación que contiene una vulnerabilidad desconocida.
+2.	Un atacante escanea el software y detecta una vulnerabilidad, o un atacante encuentra un fallo en el código fuente después de descargarla del repositorio.
+3.	Un atacante usa herramientas y recursos para aprovechar la vulnerabilidad. Esto podría consistir en software creado a medida por el atacante, o en herramientas disponibles en el mercado.
+4.	Esta vulnerabilidad podría ser explotada durante años enteros antes de que se descubra, pero eventualmente ocurrirá que equipos investigadores, el público general o los profesionales de TI identificarán la actividad de los atacantes y notifiquen a los desarrolladores acerca de la vulnerabilidad.
+
+Ejemplo:
+	vulnerabilidad de día cero en Chrome: En 2021, Chrome de Google sufrió una serie de amenazas de día cero, lo que provocó que Chrome emitiera actualizaciones . La vulnerabilidad se originó a partir de un error en el motor JavaScript V8 utilizado en el navegador web.
+	iOS de Apple: El sistema operativo iOS de Apple suele describirse como el más seguro de las principales plataformas de teléfonos inteligentes. Sin embargo, en 2020, fue víctima de al menos dos conjuntos de vulnerabilidades de día cero de iOS, incluido un error de día cero que permitía a los atacantes comprometer los iPhones de forma remota.
+
+Imagen:
+https://www.malwarebytes.com/wp-content/uploads/sites/2/2020/06/zero-day-image.jpg?resize=1536,1024
+![image](https://github.com/user-attachments/assets/5d497f29-6cbb-4d6e-83e2-ecc87c97a511)
+
+ 
+Referencias:
+https://www.proofpoint.com/es/threat-reference/zero-day-exploit
+
+8.	**Dns spoofing:** El DNS spoofing, o suplantación de DNS, es el proceso de alterar entradas en un servidor de DNS para redirigir a un usuario específico a una web malintencionada que está bajo control del atacante. El ataque de DNS spoofing, (acrónimo de Domain Name Service, en español, servicio de nombres de dominio) típicamente ocurre en un entorno de red Wi-Fi pública, pero también puede darse en cualquier situación en que el atacante pueda alterar las tablas del ARP (Address Resolution Protocol) y obligar a los dispositivos del usuario objetivo a usar el equipo controlado por el atacante como servidor para una página web específica. Es el primer paso en un sofisticado ataque de phishing sobre una red Wi-Fi pública, y también puede terminar por engañar a los usuarios para que instalen malware en sus dispositivos o para que divulguen información delicada.
+
+El término “spoofing” (que significa “suplantación” en inglés) en el ataque significa que el agente de amenaza está usando una página malintencionada que se parece a una página oficial que el usuario conoce. Como las DNS son una parte clave de las comunicaciones por internet, alterar las entradas le brinda al atacante un escenario de phishing perfecto para recopilar datos delicados. El agente de amenaza puede recopilar contraseñas, información bancaria, números de tarjeta de crédito, información de contacto y datos geográficos.	
+
+Cuando el atacante encuentra una buena Wi-Fi pública, los pasos básicos de envenenamiento de DNS son:
+
+•	Usar arpspoof para engañar al equipo de un usuario y lograr que apunte al equipo del atacante cuando el usuario escriba una dirección de dominio en su navegador. Este paso esencialmente envenena la caché de resolución en el ordenador del usuario.
+•	Emitir otro comando arpspoof para engañar al servidor del dominio web para que piense que la IP del cliente es la IP del equipo atacante.
+•	Crear un archivo HOST que apunte la IP del equipo del atacante hacia la página web objetivo. Esta entrada HOST se usa cuando los usuarios solicitan el nombre del dominio.
+•	Configurar una página web de phishing con la misma apariencia que la página web “real” en un ordenador local malintencionado.
+•	Recopilar datos de las víctimas en la red, engañándolas para lograr que autentiquen o ingresen su información en las páginas web suplantadas.
+
+Ejemplo:
+	Spoofing de correo electrónico: El spoofing vía correo electrónico es muy común, ya que ocurre en un medio que empleamos todos los días, por lo que no se requiere demasiado esfuerzo para suplantar la identidad de alguien a través de esta plataforma.
+Este delito se desarrolla cuando una persona crea una cuenta similar a la de alguien confiable, como es un agente de ventas. Suelen inventar nombres y utilizar dominios falsos. Así, las personas creen que se trata de una comunicación oficial y proveen de información sensible al atacante.
+
+	Spoofing telefónico:Este tipo de ciberataque sucede mediante llamadas o mensajes de texto. En estos casos, los atacantes se aseguran de tener un número de apariencia institucional u oficial para generar confianza en el usuario.
+Por lo general, este robo de identidad desemboca en el acceso ilegítimo a las cuentas bancarias de las víctimas, pues las personas solicitan contraseñas y códigos de seguridad al cliente con el pretexto de una supuesta inspección de rutina. De esta manera, pueden llevar a cabo transacciones financieras en nombre del dueño de la cuenta y sustraer sus fondos.
+
+Imagen:
+https://nameshield.com/wp-content/uploads/2021/06/spoofing-2-1024x649.png
+![Dns spoofing](https://github.com/user-attachments/assets/9f99afb6-a851-4d7e-8958-729557cd2870)
+
+
+ 
+Referencias:
+https://www.proofpoint.com/es/threat-reference/dns-spoofing#:~:text=El%20DNS%20spoofing%2C%20o%20suplantaci%C3%B3n,est%C3%A1%20bajo%20control%20del%20atacante.
+
