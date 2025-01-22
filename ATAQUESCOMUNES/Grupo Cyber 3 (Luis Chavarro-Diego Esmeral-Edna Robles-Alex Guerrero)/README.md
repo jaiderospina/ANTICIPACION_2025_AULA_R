@@ -22,6 +22,7 @@ _WE WILL NOW BRIEFLY EXPLAIN 8 OF THE MOST COMMON CYBER-ATTACKS._
 Es un ataque con el cual se logra dene-gar el servicio de una pagina sobrepasando la capacidad de respuesta al saturar la pagina con mas solicitudes de las que puede gestionar esta, lo que genera un blo-queo o (denegación de servicio) al no tener capacidad de respuesta.
 _This is an attack that denies the service of a web page, exceeding the response capacity by saturating the page with more requests than it can handle, which generates a blocking or denial of service (denial of service) due to the lack of response capacity._
 ![image](https://github.com/user-attachments/assets/7c39c1e8-94e8-4f2c-9436-db2cb72871e4)
+
 _FUENTE:https://www.spanning.com/blog/denial-of-service-attacks-web-based-application-security-part-7/denial-of-service-attack-example.png_
 # 4. MAN IN THE MIDDLE:
 Es un ataque de tipo intrusión en medio de una comunicación entre dos vectores, estaciones o usuarios. Este puede tener 3 efectos, el primero, para escuchar o extraer información de esta comunicación; el segundo, para bloquear la comunicación o desviarla; y el tercero, para retransmitir información errónea, es decir, se manipula la información cambiándola parcial o totalmente.
