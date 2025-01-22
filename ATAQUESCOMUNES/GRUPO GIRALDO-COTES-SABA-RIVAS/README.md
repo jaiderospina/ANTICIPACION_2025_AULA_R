@@ -36,6 +36,6 @@ d.	Cómo Protegerse de un Ataque MitM
 •	Actualizar software y dispositivos: Mantén sistemas y navegadores con los últimos parches de seguridad.
 •	Autenticación multifactor: Agrega una capa extra de seguridad para proteger tus cuentas incluso si las credenciales son robadas.
 
-7.	Ataques de Ingeniería Social
-8.	Ataques Zero-Day
-9.	Ataques de Contraseñas
+6.	Ataques de Ingeniería Social
+7.	Ataques Zero-Day
+8.	Ataques de Contraseñas
