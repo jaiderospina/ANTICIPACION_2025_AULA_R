@@ -20,6 +20,7 @@ Es un tipo de ciberataque el cual consiste en el robo de información confidenci
 It is a type of cyberattack which consists of the theft of confidential information, password and other important data by sending an email, text message which are attractive or draws the user's attention, which by entering this link allows remote access of the one who launches the attack for the aforementioned purposes.
 
 ![image](https://github.com/user-attachments/assets/7c937942-ddea-4094-a325-bcee1ff00a52)
+
 De acuerdo a www.fortinet.com nos muestra 19 tipos de ataques de phishing a continuación mencionaremos algunos:
 
 La suplantación de identidad o ataques de phishing espada implica dirigirse a una persona específica en una organización para intentar robar sus credenciales de inicio de sesión. El atacante a menudo primero recopila información sobre la persona antes de comenzar el ataque, como su nombre, puesto y detalles de contacto.
