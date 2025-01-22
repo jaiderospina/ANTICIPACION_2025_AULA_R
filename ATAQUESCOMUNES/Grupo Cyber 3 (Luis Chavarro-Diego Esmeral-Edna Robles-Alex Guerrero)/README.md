@@ -20,6 +20,19 @@ Es un tipo de ciberataque el cual consiste en el robo de información confidenci
 It is a type of cyberattack which consists of the theft of confidential information, password and other important data by sending an email, text message which are attractive or draws the user's attention, which by entering this link allows remote access of the one who launches the attack for the aforementioned purposes.
 
 ![image](https://github.com/user-attachments/assets/7c937942-ddea-4094-a325-bcee1ff00a52)
+De acuerdo a www.fortinet.com nos muestra 19 tipos de ataques de phishing a continuación mencionaremos algunos:
+
+La suplantación de identidad o ataques de phishing espada implica dirigirse a una persona específica en una organización para intentar robar sus credenciales de inicio de sesión. El atacante a menudo primero recopila información sobre la persona antes de comenzar el ataque, como su nombre, puesto y detalles de contacto.
+
+Vishing. Es la abreviatura de "suplantación de identidad de voz" (voice phishing), es cuando alguien usa el teléfono para intentar robar información. El atacante puede fingir ser un amigo o familiar de confianza.
+
+Correos electrónicos de suplantación de identidad. En una estafa de suplantación de identidad por correo electrónico, el atacante envía un correo electrónico que parece legítimo, diseñado para engañar al destinatario para que ingrese información en respuesta o en un sitio que el pirata informático puede usar para robar o vender sus datos.
+
+Un ataque de whaling es un ataque de suplantación de identidad dirigido a un ejecutivo sénior. Estas personas a menudo tienen un acceso profundo a áreas sensibles de la red, por lo que un ataque exitoso puede dar lugar a un acceso a información valiosa.
+
+Suplantación de identidad por clonación. Un ataque de clonación de suplantación de identidad involucra a un pirata informático que hace una copia idéntica de un mensaje que el destinatario ya recibió. Pueden incluir algo como “reenviar esto” y poner un enlace malicioso en el correo electrónico.
+
+FUENTE: https://www.fortinet.com/lat/resources/cyberglossary/types-of-phishing-attacks
 
 # 2. RANSOMWARE:
 Este tipo de ciberataque que se realiza mediante un malware el cual se encarga de encriptar los archivos de la victima y le bloquea el ingreso a este mediante el cambio de contraseñas, en este caso el atacante realiza un tipo de secuestro de los datos en donde espera una remuneración de cualquier tipo para el desbloqueo de la información de la victima, normalmente se espera el pago en criptomonedas toda vez que su rastreo es mas complejo.
