@@ -8,7 +8,22 @@
 2.	Malware
 3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)
 4.	Inyección de SQL
-   
+
+**3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)**
+
+¿Qué es un ataque DDoS?
+  Ataque DDoS significa "Ataque de denegación de servicio distribuido (Distributed Denial-of-Service, DDoS)" y es un delito cibernético en el que el atacante inunda un servidor con tráfico de Internet para evitar que los usuarios accedan a servicios y sitios en línea conectados.
+  Las motivaciones para llevar a cabo un ataque DDoS varían ampliamente, al igual que los tipos de personas y organizaciones ansiosas por perpetrar esta forma de ciberataque. Algunos ataques son llevados a cabo por personas enojadas y hacktivistas que desean derribar los servidores de una empresa simplemente para hacer una declaración, divertirse explotando la debilidad cibernética o expresando desaprobación.
+  Otros ataques de denegación de servicio distribuido están motivados financieramente, como un competidor que interrumpe o cierra las operaciones en línea de otro negocio para robarle los clientes mientras tanto. Otros implican extorsión, en donde los perpetradores atacan a una empresa e instalan software de rehenes o ransomware en sus servidores, luego los obligan a pagar una gran suma de dinero por el daño que se revertirá.
+  Los ataques DDoS están en aumento, e incluso algunas de las empresas globales más grandes no son inmunes a sufrir “DDoS”. El ataque más grande de la historia se produjo en febrero de 2020 y fue a nada menos que Amazon Web Services (AWS), lo cual superó un ataque anterior a GitHub dos años antes. Las ramificaciones de DDoS incluyen una caída en el tráfico legítimo, pérdida de negocios y daño a la reputación.
+  A medida que la Internet de las cosas (Internet of Things, IoT) continúa proliferando, también lo hace la cantidad de empleados remotos que trabajan desde casa, al igual que la cantidad de dispositivos conectados a una red. Es posible que la seguridad de cada dispositivo de IoT no necesariamente se mantenga al día, lo que deja la red a la cual está conectado vulnerable a ataques. Como tal, la importancia de la protección y mitigación de DDoSes crucial.
+  
+Cómo funcionan los ataques DDoS
+  Un ataque DDoS tiene como objetivo saturar los dispositivos, servicios y redes de su objetivo previsto con tráfico de Internet falso, haciéndolos inaccesibles o inútiles para los usuarios legítimos.
+DoS frente a DDoS
+Un ataque de denegación de servicio distribuido es una subcategoría del ataque de denegación de servicio (DoS) más general. En un ataque de DoS, el atacante utiliza una sola conexión a Internet para despojar a un objetivo con solicitudes falsas o para intentar explotar una vulnerabilidad de ciberseguridad. La DDoS es más grande en escala. Utiliza miles (incluso millones) de dispositivos conectados para cumplir su objetivo. El gran volumen de los dispositivos utilizados hace que la DDoS sea mucho más difícil de combatir.
+
+
 **5.	Ataques Man-in-the-Middle (MitM)**
 
    Un ataque Man-in-the-Middle (MitM) es una técnica cibernética en la que un atacante intercepta, escucha o manipula las comunicaciones entre dos partes (por ejemplo, entre un usuario y un servidor) sin que las partes involucradas lo detecten. Este tipo de ataque permite al atacante acceder a información confidencial, modificar los datos transmitidos o incluso hacerse pasar por una de las partes para engañar a la otra.
