@@ -14,6 +14,7 @@ Un correo que parece provenir de un banco, pidiendo que actualices tus datos de 
 Un mensaje de una "empresa de entrega" solicitando un pago para completar un envío.
 Un enlace enviado a través de redes sociales o mensajería instantánea que lleva a un sitio de inicio de sesión falso.
 Image of Ejemplo de Phishing
+![image]([https://github.com/user-attachments/assets/3f859146-8540-4da7-9e59-d7edcfdeb1fc](https://www.keybps.com/wp-content/uploads/2018/02/PHISHING-1.jpg)
 
 # 2. Ransomware
 
