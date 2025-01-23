@@ -86,8 +86,20 @@ ________________________________________________________________________________
 Fuente: https://latam.kaspersky.com/resource-center/definitions/sql-injection
 
 # 6. CROSS SITE SCRIPTING:
+Se trata de un tipo de ataque que aprovecha fallas de seguridad en sitios web y que permite a los atacantes implantar scripts maliciosos en un sitio web legítimo (también víctima del atacante) para ejecutar un script en el navegador de un usuario desprevenido que visita dicho sitio y afectarlo, ya sea robando credenciales, redirigiendo al usuario a otro sitio malicioso, o para realizar defacement en un sitio web.
+## Contiene 3 tipos:
+_____
+1. Reflected Cross-Site Scripting
+  En un ataque de XSS reflejado el payload suele ser inyectado en un parámetro de la solicitud HTTP, para luego ser procesado por la aplicación web y finalmente desplegado en un punto determinado.   
+3. Stored Cross-Site Scripting
+  Esta variante tiene como característica que la aplicación web guarda el valor de entrada en un medio de almacenamiento y persiste el script inofensivo, hasta que el valor es recuperado por la aplicación y utilizado para conformar parte del documento HTML.
+5. DOM-based Cross-Site Scripting
+  El Document Object Model (DOM) es una interfaz de programación para representar la estructura de un documento web y conectarlo con un lenguaje de scripting. En este sentido, el DOM facilita la estructura de documentos como HTML o XML y permite a los programas modificar la estructura, estilo y contenido del documento.
+
+![image](https://websitesecuritystore.com/wp-content/uploads/2021/07/cross-site-scripting-examples.svg)
 
 
+FUENTES: https://www.welivesecurity.com/la-es/2021/09/28/que-es-ataque-xss-cross-site-scripting/
 
 # 7. ZERO DAY EXPLOITS:
 Un exploit de día cero es un código que los atacantes usan para aprovechar una vulnerabilidad de seguridad desconocida en un sistema. El término "día cero" se refiere a que los desarrolladores no han tenido tiempo para corregir el fallo antes de que los atacantes lo exploten. (fortinet, 2024)
