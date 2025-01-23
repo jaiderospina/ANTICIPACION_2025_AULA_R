@@ -25,8 +25,7 @@ WannaCry: Infectó miles de sistemas en 2017, afectando a empresas e institucion
 Ryuk: Dirigido principalmente a grandes empresas e instituciones, causando daños multimillonarios.
 REvil (Sodinokibi): Conocido por ataques de doble extorsión y demandas de rescates muy elevados.
 Image of Ejemplo de Ransomware
-
-**3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)**
+# 3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)
 
 ¿Qué es un ataque DDoS?
   Ataque DDoS significa "Ataque de denegación de servicio distribuido (Distributed Denial-of-Service, DDoS)" y es un delito cibernético en el que el atacante inunda un servidor con tráfico de Internet para evitar que los usuarios accedan a servicios y sitios en línea conectados.
@@ -43,8 +42,8 @@ REFERENCIA: https://www.fortinet.com/lat/resources/cyberglossary/ddos-attack#:~:
 ![image](https://github.com/user-attachments/assets/3f859146-8540-4da7-9e59-d7edcfdeb1fc)
 
 
+# 5.	Ataques Man-in-the-Middle (MitM
 
-**5.	Ataques Man-in-the-Middle (MitM)**
 
    Un ataque Man-in-the-Middle (MitM) es una técnica cibernética en la que un atacante intercepta, escucha o manipula las comunicaciones entre dos partes (por ejemplo, entre un usuario y un servidor) sin que las partes involucradas lo detecten. Este tipo de ataque permite al atacante acceder a información confidencial, modificar los datos transmitidos o incluso hacerse pasar por una de las partes para engañar a la otra.
    
@@ -84,8 +83,8 @@ REFERENCIA: https://www.fortinet.com/lat/resources/cyberglossary/ddos-attack#:~:
     •	Actualizar software y dispositivos: Mantén sistemas y navegadores con los últimos parches de seguridad. 
     •	Autenticación multifactor: Agrega una capa extra de seguridad para proteger tus cuentas incluso si las credenciales son robadas.
 
+# 6.	Ataques de Ingeniería Social
 
-**6.	Ataques de Ingeniería Social**
 
 Los ataques de ingeniería social son tácticas utilizadas por los ciberdelincuentes para manipular a las personas y obtener información confidencial o acceso no autorizado a sistemas, aprovechando las emociones, la confianza o el desconocimiento de las víctimas. Estos ataques se centran en explotar el "eslabón más débil" de la ciberseguridad: el factor humano.
 
