@@ -38,7 +38,7 @@ El ransomware es un tipo de malware que cifra los datos de la víctima y exige u
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/Ransomeware.png)
-https://es.statista.com/grafico/9376/como-funciona-un-ransomware/
+Fuente: https://es.statista.com/grafico/9376/como-funciona-un-ransomware/
 
 
 ### Ejemplo Conceptual
@@ -57,7 +57,8 @@ Un ataque DoS busca hacer que un servicio en línea no esté disponible sobrecar
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/DoS.png)
-https://www.spanning.com/blog/denial-of-service-attacks-web-based-application-security-part-7/
+
+Fuente: https://www.spanning.com/blog/denial-of-service-attacks-web-based-application-security-part-7/
 
 
 ### Ejemplo Conceptual
@@ -76,7 +77,7 @@ Un ataque MitM ocurre cuando un atacante intercepta y manipula la comunicación 
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/man-in-the-middle-diagram.png)
-https://www.ibm.com/think/topics/man-in-the-middle/
+Fuente: https://www.ibm.com/think/topics/man-in-the-middle/
 
 ### Ejemplo Conceptual
 
@@ -94,7 +95,8 @@ El SQL Injection es un ataque que permite a un atacante ejecutar comandos malici
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/SQLinjection.png)
-https://www.avast.com/es-es/c-sql-injection
+
+Fuente: https://www.avast.com/es-es/c-sql-injection
 
 ### Ejemplo Conceptual
 
@@ -112,7 +114,8 @@ El XSS es un ataque que permite a un atacante inyectar scripts maliciosos en pá
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/ataque-xxs-blog-hostalia-hosting.jpg)
-https://www.avast.com/es-es/c-sql-injection/
+
+Fuente: https://www.avast.com/es-es/c-sql-injection/
 
 ### Ejemplo Conceptual
 
@@ -130,7 +133,7 @@ Los Zero-Day Exploits son ataques que aprovechan vulnerabilidades desconocidas e
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/zerodayexplot.jpg)
-Elaboracion propia/
+Fuente: Elaboracion propia
 
 ### Ejemplo Conceptual
 
@@ -148,7 +151,8 @@ El DNS Spoofing consiste en comprometer el sistema de nombres de dominio para re
 
 #### Contextualización Definición
 ![Contextualización de la Definición](Imagenes/DNOSpoofing.png)
-https://flashstart.com/es/dns-spoofing-que-es-por-que-es-peligroso/
+
+Fuente: https://flashstart.com/es/dns-spoofing-que-es-por-que-es-peligroso/
 
 ### Ejemplo Conceptual
 
