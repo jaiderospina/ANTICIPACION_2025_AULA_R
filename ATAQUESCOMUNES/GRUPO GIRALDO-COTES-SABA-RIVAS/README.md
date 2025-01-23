@@ -22,6 +22,9 @@ Cómo funcionan los ataques DDoS
   Un ataque DDoS tiene como objetivo saturar los dispositivos, servicios y redes de su objetivo previsto con tráfico de Internet falso, haciéndolos inaccesibles o inútiles para los usuarios legítimos.
 DoS frente a DDoS
 Un ataque de denegación de servicio distribuido es una subcategoría del ataque de denegación de servicio (DoS) más general. En un ataque de DoS, el atacante utiliza una sola conexión a Internet para despojar a un objetivo con solicitudes falsas o para intentar explotar una vulnerabilidad de ciberseguridad. La DDoS es más grande en escala. Utiliza miles (incluso millones) de dispositivos conectados para cumplir su objetivo. El gran volumen de los dispositivos utilizados hace que la DDoS sea mucho más difícil de combatir.
+REFERENCIA: https://www.fortinet.com/lat/resources/cyberglossary/ddos-attack#:~:text=Ataque%20DDoS%20significa%20%22Ataque%20de,y%20sitios%20en%20l%C3%ADnea%20conectados.
+![image](https://github.com/user-attachments/assets/3f859146-8540-4da7-9e59-d7edcfdeb1fc)
+
 
 
 **5.	Ataques Man-in-the-Middle (MitM)**
