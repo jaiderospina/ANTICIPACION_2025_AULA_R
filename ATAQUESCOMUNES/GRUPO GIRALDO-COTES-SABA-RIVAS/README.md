@@ -4,10 +4,25 @@
 **Mayor. Danilo Saba Corredor**  
 
                                         **TOP 8 DE TIPOS DE CIBER ATAQUES**
-1.	Phishing
-2.	Malware
-3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)
-4.	Inyección de SQL
+1. Phishing
+Definición:  Una técnica de ciberataque que utiliza la ingeniería social para engañar a las personas y obtener información confidencial, como nombres de usuario, contraseñas, números de tarjetas de crédito u otros datos sensibles.
+
+Ejemplos:
+
+Un correo que parece provenir de un banco, pidiendo que actualices tus datos de cuenta.
+Un mensaje de una "empresa de entrega" solicitando un pago para completar un envío.
+Un enlace enviado a través de redes sociales o mensajería instantánea que lleva a un sitio de inicio de sesión falso.
+Image of Ejemplo de Phishing
+
+2. Ransomware
+Definición: Un tipo de software malicioso (malware) diseñado para bloquear o cifrar el acceso a los datos o sistemas de una víctima, generalmente exigiendo un pago (rescate) para restaurar el acceso. Su nombre proviene de las palabras "ransom" (rescate) y "software". Es una de las amenazas cibernéticas más peligrosas y prevalentes en la actualidad.
+
+Ejemplos:
+
+WannaCry: Infectó miles de sistemas en 2017, afectando a empresas e instituciones públicas de todo el mundo.
+Ryuk: Dirigido principalmente a grandes empresas e instituciones, causando daños multimillonarios.
+REvil (Sodinokibi): Conocido por ataques de doble extorsión y demandas de rescates muy elevados.
+Image of Ejemplo de Ransomware
 
 **3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)**
 
