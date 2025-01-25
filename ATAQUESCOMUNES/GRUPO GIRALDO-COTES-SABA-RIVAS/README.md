@@ -20,6 +20,7 @@ Image of Ejemplo de Phishing
 # 2. Ransomware
 
 Definición: Un tipo de software malicioso (malware) diseñado para bloquear o cifrar el acceso a los datos o sistemas de una víctima, generalmente exigiendo un pago (rescate) para restaurar el acceso. Su nombre proviene de las palabras "ransom" (rescate) y "software". Es una de las amenazas cibernéticas más peligrosas y prevalentes en la actualidad.
+![Uploading image.png…]()
 
 Ejemplos:
 
