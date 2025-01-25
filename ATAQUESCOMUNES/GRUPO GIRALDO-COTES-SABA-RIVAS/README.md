@@ -27,6 +27,7 @@ WannaCry: Infectó miles de sistemas en 2017, afectando a empresas e institucion
 Ryuk: Dirigido principalmente a grandes empresas e instituciones, causando daños multimillonarios.
 REvil (Sodinokibi): Conocido por ataques de doble extorsión y demandas de rescates muy elevados.
 Image of Ejemplo de Ransomware
+
 # 3.	Ataques de Denegación de Servicio (DoS) y Distribuidos (DDoS)
 
 ¿Qué es un ataque DDoS?
@@ -39,9 +40,23 @@ Image of Ejemplo de Ransomware
 Cómo funcionan los ataques DDoS
   Un ataque DDoS tiene como objetivo saturar los dispositivos, servicios y redes de su objetivo previsto con tráfico de Internet falso, haciéndolos inaccesibles o inútiles para los usuarios legítimos.
 DoS frente a DDoS
-Un ataque de denegación de servicio distribuido es una subcategoría del ataque de denegación de servicio (DoS) más general. En un ataque de DoS, el atacante utiliza una sola conexión a Internet para despojar a un objetivo con solicitudes falsas o para intentar explotar una vulnerabilidad de ciberseguridad. La DDoS es más grande en escala. Utiliza miles (incluso millones) de dispositivos conectados para cumplir su objetivo. El gran volumen de los dispositivos utilizados hace que la DDoS sea mucho más difícil de combatir.
+  Un ataque de denegación de servicio distribuido es una subcategoría del ataque de denegación de servicio (DoS) más general. En un ataque de DoS, el atacante utiliza una sola conexión a Internet para despojar a un objetivo con solicitudes falsas o para intentar explotar una vulnerabilidad de ciberseguridad. La DDoS es más grande en escala. Utiliza miles (incluso millones) de dispositivos conectados para cumplir su objetivo. El gran volumen de los dispositivos utilizados hace que la DDoS sea mucho más difícil de combatir.
 REFERENCIA: https://www.fortinet.com/lat/resources/cyberglossary/ddos-attack#:~:text=Ataque%20DDoS%20significa%20%22Ataque%20de,y%20sitios%20en%20l%C3%ADnea%20conectados.
 ![image](https://github.com/user-attachments/assets/3f859146-8540-4da7-9e59-d7edcfdeb1fc)
+  Ataques volumétricos o basados en volumen
+Este tipo de ataque tiene como objetivo controlar todo el ancho de banda disponible entre la víctima y la Internet más amplia. La amplificación del sistema de nombres de dominio (Domain name system, DNS) es un ejemplo de un ataque basado en volumen. En este escenario, el atacante falsifica la dirección del objetivo y luego envía una solicitud de búsqueda de nombre DNS a un servidor DNS abierto con la dirección falsificada.
+Cuando el servidor DNS envía la respuesta de registro DNS, se envía al objetivo, lo que hace que el objetivo reciba una amplificación de la consulta inicialmente pequeña del atacante.
+  Ataques de protocolo
+Los ataques de protocolo consumen toda la capacidad disponible de servidores web u otros recursos, como firewalls. Exponen debilidades en las capas 3 y 4 de la pila de protocolos OSI para hacer que el objetivo sea inaccesible. 
+  Una inundación SYN es un ejemplo de un ataque de protocolo, en el que el atacante envía al objetivo un número abrumador de solicitudes de protocolo de control de transmisión (transmission control protocol, TCP) con direcciones de protocolo de Internet (Internet Protocol, IP) de origen falsificado. Los servidores de destino intentan responder a cada solicitud de conexión, pero el protocolo de enlace final nunca ocurre, saturando al objetivo en el proceso.
+Prevención contra ataques DDoS
+  Incluso si sabe qué es un ataque DDoS, es extremadamente difícil evitar ataques porque la detección es un desafío. Esto se debe a que los síntomas del ataque pueden no variar mucho de los problemas típicos del servicio, como carga lenta de páginas web, y el nivel de sofisticación y complejidad de las técnicas DDoS continúa creciendo.
+Además, muchas empresas agradecen un aumento en el tráfico de Internet, especialmente si la empresa lanzó recientemente nuevos productos o servicios o anunció noticias que mueven el mercado. Como tal, la prevención no siempre es posible, por lo que es mejor que una organización planifique una respuesta para cuando se produzcan estos ataques.
+Mitigación de ataques DDoS
+Una vez que un presunto ataque está en marcha, una organización tiene varias opciones para mitigar sus efectos.
+
+  Evaluación de riesgos
+Las organizaciones deben realizar regularmente auditorías y evaluaciones de riesgos en sus dispositivos, servidores y en la red. Si bien es imposible evitar por completo un DDoS, un conocimiento profundo de las fortalezas y vulnerabilidades de los activos de hardware y software de la organización es de gran ayuda. Conocer los segmentos más vulnerables de la red de una organización es clave para comprender qué estrategia implementar para reducir el daño y la interrupción que puede imponer un ataque DDoS.
 
 
 # 5.	Ataques Man-in-the-Middle (MitM
