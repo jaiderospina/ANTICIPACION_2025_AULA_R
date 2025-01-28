@@ -8,6 +8,8 @@ El CSF 2.0 se estructura en tres componentes principales:
 - **Perfiles (Profiles):** Ayudan a las organizaciones a alinear sus actividades de ciberseguridad con sus objetivos y requisitos específicos.
 - **Niveles de Implementación (Tiers):** Describen el grado de madurez de la gestión de riesgos de ciberseguridad en una organización.
 
+### **1. Funciones CSF 2.0**
+
 1. **Gobernar (Govern):** Establecer y comunicar la estrategia de ciberseguridad, políticas y expectativas para gestionar los riesgos cibernéticos.
 2. **Identificar (Identify):** Comprender y gestionar los riesgos relacionados con sistemas, activos, datos y capacidades.
 3. **Proteger (Protect):** Implementar salvaguardas para garantizar la entrega de servicios críticos.
