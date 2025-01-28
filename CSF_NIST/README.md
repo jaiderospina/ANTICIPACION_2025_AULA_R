@@ -81,3 +81,8 @@ Una empresa de servicios financieros quiere anticiparse a posibles ataques de ra
 ---
 
 En resumen, el CSF 2.0 proporciona un marco estructurado para anticipar amenazas cibernéticas mediante la identificación proactiva de riesgos, la implementación de controles de protección y la detección temprana de actividades maliciosas. Esto permite a las organizaciones mantenerse un paso adelante de los atacantes y minimizar el impacto de los incidentes de seguridad.
+
+# REEFRECNCIAS.
+
+- https://www.nist.gov/cyberframework
+
