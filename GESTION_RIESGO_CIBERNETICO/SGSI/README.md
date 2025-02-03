@@ -41,9 +41,7 @@ El documento de alcance es un elemento fundamental en la implementación de un S
 
 El documento de alcance es el punto de partida para la implementación de un SGSI basado en ISO 27001. Define los límites y el propósito del sistema, lo que permite a la organización enfocar sus esfuerzos en los aspectos más relevantes de la seguridad de la información.
 
-**¿Te gustaría profundizar en algún aspecto específico de la ISO 27001 o de los otros marcos mencionados?**
-
-**Temas que podríamos explorar:**
+**Temas de interés:**
 
 * **Los anexos de la ISO 27001 y sus controles.**
 * **La relación entre ISO 27001 y otros estándares como GDPR y NIST CSF.**
