@@ -1,4 +1,4 @@
-## SGSI y ISO 27001:2022: Un enfoque detallado
+## SGSI e ISO 27001:2022: Un enfoque detallado
 
 ### ¿Qué es un SGSI?
 Un **Sistema de Gestión de Seguridad de la Información (SGSI)** es un conjunto de políticas, procesos y controles diseñados para garantizar la confidencialidad, integridad y disponibilidad de la información de una organización. Es una estructura que permite a una empresa identificar, evaluar y tratar los riesgos de seguridad de la información de manera sistemática y continua.
