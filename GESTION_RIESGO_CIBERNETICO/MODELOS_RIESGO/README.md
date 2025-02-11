@@ -47,3 +47,4 @@ Learn more:
 1. [Software Secured | Comparison of STRIDE, DREAD & PASTA | USA](https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta)
 2. [STRIDE vs PASTA - A Comparison of Threat Modeling Methodologies](https://aptori.dev/blog/stride-vs-pasta-a-comparison-of-threat-modeling-methodologies)
 3. [Modelo de Amenazas STRIDE](https://www.datasunrise.com/es/centro-de-conocimiento/modelo-de-amenazas-stride/)
+4. https://criminologiacorporativa.com/f/la-metodolog%C3%ADa-pasta-priorizando-amenazas-y-vulnerabilidades
