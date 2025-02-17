@@ -163,4 +163,59 @@ Este ejercicio permitirá desarrollar habilidades en:
 
 
 
+*******
+
+
+## Enfoque Practico de STRIDE-PASTA-DREAD
+**STRIDE**
+
+* **¿Qué es?** STRIDE es un acrónimo que representa seis categorías de amenazas: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service y Elevation of Privilege.
+* **Cuándo utilizarlo:**
+  * **Identificación rápida de amenazas:** STRIDE es una herramienta útil para realizar una evaluación inicial de las posibles amenazas a un sistema.
+  * **Proyectos ágiles:** Se adapta bien a proyectos con ciclos de desarrollo cortos, ya que permite identificar rápidamente las principales vulnerabilidades.
+* **Ejemplo:** Al diseñar una nueva aplicación web, se puede utilizar STRIDE para identificar posibles ataques como inyección SQL (tampering), phishing (spoofing) o denegación de servicio (DoS).
+
+**PASTA**
+
+* **¿Qué es?** PASTA es un acrónimo que representa cinco categorías de amenazas: Planning, Access, Storage, Transmission, y Application.
+* **Cuándo utilizarlo:**
+  * **Análisis de sistemas complejos:** PASTA es especialmente útil para analizar sistemas grandes y complejos, ya que proporciona una visión más granular de las amenazas.
+  * **Evaluación de riesgos:** Se puede utilizar para evaluar el riesgo asociado a cada amenaza identificada.
+* **Ejemplo:** Al evaluar la seguridad de una red corporativa, se puede utilizar PASTA para identificar amenazas como ataques de fuerza bruta (acceso), interceptación de datos en tránsito (transmisión) o ataques a aplicaciones web (aplicación).
+
+**DREAD**
+
+* **¿Qué es?** DREAD es un acrónimo que representa cinco factores para evaluar el riesgo de una amenaza: Damage Potential, Reproducibility, Exploitability, Affected Users, and Discoverability.
+* **Cuándo utilizarlo:**
+  * **Priorización de amenazas:** DREAD permite asignar una puntuación a cada amenaza y priorizar las acciones de mitigación.
+  * **Toma de decisiones:** Ayuda a las organizaciones a tomar decisiones informadas sobre cómo invertir en seguridad.
+* **Ejemplo:** Al evaluar una vulnerabilidad en un sistema de autenticación, se puede utilizar DREAD para determinar el impacto potencial de un ataque exitoso y priorizar la implementación de una solución.
+
+**Cuadro comparativo:**
+
+| Modelo | Foco | Características |
+|---|---|---|
+| STRIDE | Categorías de amenazas | Rápido, simple, ideal para evaluaciones iniciales |
+| PASTA | Fases del ciclo de vida de la información | Análisis detallado de sistemas complejos |
+| DREAD | Evaluación de riesgos | Priorización de amenazas, toma de decisiones |
+
+**¿Cuándo utilizar cada modelo?**
+
+La elección del modelo depende del contexto y de los objetivos del análisis de amenazas.
+
+* **STRIDE:** Ideal para una evaluación rápida y general de un sistema.
+* **PASTA:** Adecuado para análisis más detallados y sistemas complejos.
+* **DREAD:** Útil para priorizar amenazas y tomar decisiones sobre mitigación.
+
+**En la práctica, es común combinar varios modelos** para obtener una visión más completa de las amenazas y vulnerabilidades. Por ejemplo, se puede utilizar STRIDE para identificar las categorías de amenazas y luego aplicar DREAD para evaluar el riesgo asociado a cada una.
+
+**Ejemplo de aplicación:**
+
+Imagine que se está evaluando la seguridad de una aplicación web. Podrías utilizar STRIDE para identificar posibles amenazas como inyección SQL (tampering), falsificación de solicitudes entre sitios (cross-site request forgery) o denegación de servicio (DoS). Luego, emplee DREAD para evaluar el riesgo asociado a cada una de estas amenazas y priorizar las acciones de mitigación.
+
+
+
+
+
+
 
