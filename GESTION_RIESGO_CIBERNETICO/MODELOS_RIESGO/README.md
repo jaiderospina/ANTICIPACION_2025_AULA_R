@@ -130,7 +130,7 @@ Este ejercicio permitirá desarrollar habilidades en:
 1. **Formación de equipos:**
 2. **Definición del escenario:** Cada equipo seleccionará un caso práctico de una organización que ha implementado un modelo de trabajo híbrido (por ejemplo, una empresa de tecnología, una institución educativa, etc.).
 3. **Análisis de riesgos:** Utilizando el modelo STRIDE los equipos identificarán las principales vulnerabilidades y amenazas a las que se enfrenta la organización en este nuevo entorno de trabajo.
-4. **Diseño de controles de seguridad:** Los equipos propondrán controles de seguridad técnicos, administrativos y físicos para mitigar los riesgos identificados  (anaexo A 27001).
+4. **Diseño de controles de seguridad:** Los equipos propondrán controles de seguridad técnicos, administrativos y físicos para mitigar los riesgos identificados  (**anexo A 27001:2022**).
 5. **Elaboración del informe:** Los equipos elaborarán un informe escrito que incluya:
    * Introducción
    * Descripción del escenario
