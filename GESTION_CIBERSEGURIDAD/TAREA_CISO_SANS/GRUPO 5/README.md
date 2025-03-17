@@ -1,5 +1,5 @@
 # Taller Ciber Líder
-
+![Taller Ciber Lider](IMAGENES/ESDEG.png)
 ## Alumnos
 
 * Andres Camilo Cotes Cadena
