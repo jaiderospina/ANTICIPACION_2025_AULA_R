@@ -2,7 +2,7 @@
 **SANS**
 La ciberseguridad no es solo técnica, también implica cumplir con leyes y regulaciones que protegen la información y garantizan la privacidad de los datos.
 El área de Legal y Regulatorio se divide en 8 categorías clave:
-
+<img width="801" alt="Captura de pantalla 2025-03-17 a las 6 43 28 a  m" src="https://github.com/user-attachments/assets/77bb8929-9ce9-4d5e-a22a-7e27ecbbb731" />
 1. Cumplimiento Normativo (Compliance)
 2. Privacidad (Privacy)
 3. Auditoría (Audit)
@@ -30,4 +30,5 @@ El cumplimiento normativo es el conjunto de reglas y estándares que las empresa
 🔹 Regulación en EE.UU. para proteger datos médicos y de salud.
 🔹 Obliga a hospitales, clínicas y aseguradoras a proteger la información de pacientes.
 📌 Ejemplo: Si un hospital filtra historiales médicos, puede ser sancionado por incumplir HIPAA.
+
 
