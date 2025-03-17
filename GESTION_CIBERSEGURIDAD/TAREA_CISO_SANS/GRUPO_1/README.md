@@ -9,7 +9,7 @@ Implica la integración de la seguridad de la información y las operaciones de 
 En este sentido, las SecOps se pueden definir como el conjunto de procesos, tecnologías y equipos especializados diseñados para proteger una organización contra amenazas cibernéticas, minimizar riesgos y responder de manera efectiva a incidentes de seguridad. Se encarga de prevenir, detectar, analizar y responder ante ciberataques o incidentes de ciberseguridad.
 
 ### Prevención
-![This is an alt text.](/Images/1PREVENCIÓN.png "PREVENCIÓN")
+![This is an alt text.](/Images/1PREVENCION.png "PREVENCIÓN")
 
 Medidas y controles implementados para proteger proactivamente los sistemas de información y los datos contra amenazas, riesgos y vulnerabilidades potenciales, evitando así que ocurran incidentes desde el principio.
 
