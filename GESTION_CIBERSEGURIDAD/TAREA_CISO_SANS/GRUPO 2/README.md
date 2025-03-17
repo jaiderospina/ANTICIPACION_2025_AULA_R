@@ -2,7 +2,7 @@
 **SANS**
 La ciberseguridad no es solo técnica, también implica cumplir con leyes y regulaciones que protegen la información y garantizan la privacidad de los datos.
 El área de Legal y Regulatorio se divide en 8 categorías clave:
-<img width="801" alt="Captura de pantalla 2025-03-17 a las 6 43 28 a  m" src="https://github.com/user-attachments/assets/77bb8929-9ce9-4d5e-a22a-7e27ecbbb731" />
+[<img width="801" alt="Captura de pantalla 2025-03-17 a las 6 43 28 a  m" src="https://github.com/user-attachments/assets/77bb8929-9ce9-4d5e-a22a-7e27ecbbb731" />](https://verveindustrial.com/wp-content/uploads/2022/07/what-is-ot-security.png)
 1. Cumplimiento Normativo (Compliance)
 2. Privacidad (Privacy)
 3. Auditoría (Audit)
