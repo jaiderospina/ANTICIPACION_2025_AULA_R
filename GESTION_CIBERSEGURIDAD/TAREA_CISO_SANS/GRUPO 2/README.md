@@ -30,4 +30,4 @@ El cumplimiento normativo es el conjunto de reglas y estándares que las empresa
 🔹 Regulación en EE.UU. para proteger datos médicos y de salud.
 🔹 Obliga a hospitales, clínicas y aseguradoras a proteger la información de pacientes.
 📌 Ejemplo: Si un hospital filtra historiales médicos, puede ser sancionado por incumplir HIPAA.
-<img width="841" alt="image" src="https://github.com/user-attachments/assets/44d341af-0e64-4d42-9fcc-a9fe6a10f4ff" />
+
