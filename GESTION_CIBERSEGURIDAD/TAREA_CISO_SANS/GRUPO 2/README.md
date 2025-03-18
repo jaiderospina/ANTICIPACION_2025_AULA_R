@@ -1,5 +1,7 @@
-# Marco Regulatorio
-**SANS**
+**SANS Marco Legal y regulatorio en Ciberseguridad**
+
+
+
 La ciberseguridad no es solo técnica, también implica cumplir con leyes y regulaciones que protegen la información y garantizan la privacidad de los datos.
 El área de Legal y Regulatorio se divide en 8 categorías clave:
 
@@ -21,51 +23,51 @@ El cumplimiento normativo es el conjunto de reglas y estándares que las empresa
 
 ✅ PCI-DSS (Payment Card Industry Data Security Standard)
 
-🔹 Estándar de seguridad para datos de tarjetas de crédito.
-🔹 Obliga a bancos, tiendas y empresas que procesan pagos a proteger los datos de clientes.
+Estándar de seguridad para datos de tarjetas de crédito.
+Obliga a bancos, tiendas y empresas que procesan pagos a proteger los datos de clientes.
 
 📌 Ejemplo: Si una tienda en línea almacena números de tarjetas sin cifrar, incumple PCI-DSS y puede ser multada.
 
 ✅ SOX (Sarbanes-Oxley Act)
 
-🔹 Ley de EE.UU. para la seguridad de la información financiera de empresas públicas.
-🔹 Exige controles estrictos para evitar fraudes financieros y manipulación de datos.
+Ley de EE.UU. para la seguridad de la información financiera de empresas públicas.
+Exige controles estrictos para evitar fraudes financieros y manipulación de datos.
 
 📌 Ejemplo: Una empresa que cotiza en la bolsa debe tener auditorías de seguridad para demostrar que sus datos financieros no han sido alterados.
 
 ✅ HIPAA (Health Insurance Portability and Accountability Act)
 
-🔹 Regulación en EE.UU. para proteger datos médicos y de salud.
-🔹 Obliga a hospitales, clínicas y aseguradoras a proteger la información de pacientes.
+Regulación en EE.UU. para proteger datos médicos y de salud.
+Obliga a hospitales, clínicas y aseguradoras a proteger la información de pacientes.
 
 📌 Ejemplo: Si un hospital filtra historiales médicos, puede ser sancionado por incumplir HIPAA.
 
 ✅ FFIEC (Federal Financial Institutions Examination Council) & CAT (Cybersecurity Assessment Tool)
 
-🔹 Regulaciones para bancos y entidades financieras en EE.UU.
-🔹 Obligan a las instituciones financieras a tener controles de seguridad contra fraudes y ciberataques.
+Regulaciones para bancos y entidades financieras en EE.UU.
+Obligan a las instituciones financieras a tener controles de seguridad contra fraudes y ciberataques.
 
 📌 Ejemplo: Un banco debe evaluar cada año su nivel de madurez en ciberseguridad con el CAT de FFIEC.
 
 ✅ FERPA (Family Educational Rights and Privacy Act)
 
-🔹 Protege la privacidad de los registros educativos de estudiantes en EE.UU.
-🔹 Impide que escuelas y universidades compartan datos sin el consentimiento de los estudiantes o sus padres.
+Protege la privacidad de los registros educativos de estudiantes en EE.UU.
+Impide que escuelas y universidades compartan datos sin el consentimiento de los estudiantes o sus padres.
 
 📌 Ejemplo: Una universidad no puede divulgar calificaciones de un estudiante sin su autorización.
 
 ✅ NERC CIP (North American Electric Reliability Corporation - Critical Infrastructure Protection)
 
-🔹 Regulación de seguridad para la infraestructura eléctrica en EE.UU.
-🔹 Obliga a compañías eléctricas a proteger sus sistemas contra ciberataques.
+Regulación de seguridad para la infraestructura eléctrica en EE.UU.
+Obliga a compañías eléctricas a proteger sus sistemas contra ciberataques.
 
 📌 Ejemplo: Un hacker que accede al sistema de una planta eléctrica puede causar apagones; NERC CIP exige medidas de seguridad para evitarlo.
 
 ✅ NIST SP 800-37 y 800-53
 
-🔹 Estándares de seguridad para agencias gubernamentales en EE.UU.
-🔹 NIST 800-37 define cómo evaluar y gestionar riesgos de seguridad.
-🔹 NIST 800-53 establece controles de seguridad para proteger la información.
+Estándares de seguridad para agencias gubernamentales en EE.UU.
+NIST 800-37 define cómo evaluar y gestionar riesgos de seguridad.
+NIST 800-53 establece controles de seguridad para proteger la información.
 
 📌 Ejemplo: Una agencia del gobierno de EE.UU. debe seguir NIST 800-53 para proteger sus redes contra ciberataques.
 
@@ -75,14 +77,14 @@ Las leyes de privacidad protegen los datos personales y establecen cómo deben s
 
 ✅ Privacy Shield
 
-🔹 Acuerdo entre EE.UU. y la UE para la transferencia de datos personales.
-🔹 Regula cómo las empresas de EE.UU. manejan los datos de ciudadanos europeos.
+Acuerdo entre EE.UU. y la UE para la transferencia de datos personales.
+Regula cómo las empresas de EE.UU. manejan los datos de ciudadanos europeos.
 📌 Ejemplo: Una empresa de EE.UU. que gestiona datos de clientes europeos debe cumplir con Privacy Shield.
 
 ✅ EU GDPR (General Data Protection Regulation)
 
-🔹 Ley de protección de datos de la Unión Europea.
-🔹 Obliga a empresas a:
+Ley de protección de datos de la Unión Europea.
+Obliga a empresas a:
 ✔ Informar a los usuarios sobre el uso de sus datos.
 ✔ Obtener consentimiento antes de recopilar información.
 ✔ Permitir que los usuarios eliminen sus datos ("derecho al olvido").
@@ -95,32 +97,32 @@ Las leyes de privacidad protegen los datos personales y establecen cómo deben s
 
 ✅ SSAE 16 (Statement on Standards for Attestation Engagements 16)
 
-🔹 Estándar de auditoría para evaluar controles de seguridad y operativos en empresas.
+Estándar de auditoría para evaluar controles de seguridad y operativos en empresas.
 📌 Ejemplo: Un proveedor de servicios en la nube debe pasar una auditoría SSAE 16 para demostrar que sus controles de seguridad funcionan.
 
 ✅ SOC 2 (Service Organization Control 2)
 
-🔹 Informe de auditoría que demuestra que una empresa maneja datos de clientes con altos estándares de seguridad.
+Informe de auditoría que demuestra que una empresa maneja datos de clientes con altos estándares de seguridad.
 📌 Ejemplo: Un proveedor de software que almacena datos de clientes en la nube debe tener un informe SOC para garantizar que protege la información.
 
 ✅ ISO 27001
 
-🔹 Certificación internacional para la gestión de seguridad de la información.
+Certificación internacional para la gestión de seguridad de la información.
 📌 Ejemplo: Una empresa de telecomunicaciones obtiene ISO 27001 para demostrar que su infraestructura es segura.
 
 ✅ FISMA (Federal Information Security Management Act) & FedRAMP (Federal Risk and Authorization Management Program)
 
-🔹 Regulaciones de seguridad para agencias del gobierno de EE.UU. y proveedores de tecnología.
+Regulaciones de seguridad para agencias del gobierno de EE.UU. y proveedores de tecnología.
 📌 Ejemplo: Una empresa que quiere vender servicios en la nube al gobierno de EE.UU. debe cumplir con FedRAMP
 
 ✅ NIST SP 800-53A
 
-🔹 Guía para evaluar la efectividad de los controles de seguridad en agencias gubernamentales.
+Guía para evaluar la efectividad de los controles de seguridad en agencias gubernamentales.
 📌 Ejemplo: Un equipo de auditoría usa NIST 800-53A para verificar que una agencia federal cumple con las normas de seguridad.
 
 ✅ COSO (Committee of Sponsoring Organizations of the Treadway Commission)
 
-🔹 Marco de control interno usado para auditorías financieras y de seguridad.
+Marco de control interno usado para auditorías financieras y de seguridad.
 📌 Ejemplo: Una empresa usa COSO para garantizar la integridad de sus reportes financieros.
 
 **4. Investigaciones y Protección de Propiedad Intelectual**
