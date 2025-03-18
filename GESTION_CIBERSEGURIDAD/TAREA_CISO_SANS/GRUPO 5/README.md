@@ -165,10 +165,10 @@
    * Descripción: En ciertos casos, se requiere informar a terceros sobre la situación, ya sea por políticas internas o requisitos legales.
     * Ejemplo: Si se descubre que datos sensibles han sido comprometidos en una violación de datos, se notifica a los proveedores afectados o a otras entidades relevantes.
 
-### Usuarios o Help Desk Reportan Problemas
+### Usuarios o Help Desk Reportan Problemas:
 
     * Descripción: Los empleados de la organización o el equipo de soporte técnico identifican y reportan problemas relacionados con la seguridad.
-    * Ejemplo: Un empleado detecta un correo electrónico sospechoso y lo reporta al help desk. Esto puede ser una señal de phishing que necesita atención inmediata.
+   * Ejemplo: Un empleado detecta un correo electrónico sospechoso y lo reporta al help desk. Esto puede ser una señal de phishing que necesita atención inmediata.
 
 ### Aplicación de la Ley
  * Descripción: En situaciones donde hay actividad ilegal, el Centro de Comando se comunica con las autoridades pertinentes.
