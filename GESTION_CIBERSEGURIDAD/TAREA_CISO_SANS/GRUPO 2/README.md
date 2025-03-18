@@ -1,4 +1,4 @@
-**SANS Marco Legal y regulatorio en Ciberseguridad**
+**SANS MARCO LEGAL Y REGULATORIO EN CIBERSEGURIDAD**
 
 
 
@@ -17,7 +17,7 @@ El área de Legal y Regulatorio se divide en 8 categorías clave:
 7. Requisitos de Clientes
 8. Riesgo de Demandas
 
-**1. Cumplimiento Normativo (Compliance)**
+**1. CUMPLIMIENTO NORMATIVO (Compliance)**
 
 El cumplimiento normativo es el conjunto de reglas y estándares que las empresas deben seguir para proteger datos y evitar sanciones legales.
 
@@ -71,7 +71,7 @@ NIST 800-53 establece controles de seguridad para proteger la información.
 
 📌 Ejemplo: Una agencia del gobierno de EE.UU. debe seguir NIST 800-53 para proteger sus redes contra ciberataques.
 
-**2. Privacidad (Privacy)**
+**2. PRIVACIDAD (Privacy)**
 
 Las leyes de privacidad protegen los datos personales y establecen cómo deben ser recopilados, almacenados y compartidos.
 
@@ -91,7 +91,7 @@ Obliga a empresas a:
 📌 Ejemplo: Facebook debe pedir permiso antes de recopilar datos de un usuario en Europa para cumplir con GDPR.
 
 
-**3. Auditoria (Audit)**
+**3. AUDITORIA (Audit)**
 
 📌 Las auditorías verifican que las empresas cumplan con las regulaciones y que sus sistemas sean seguros.
 
@@ -125,7 +125,7 @@ Guía para evaluar la efectividad de los controles de seguridad en agencias gube
 Marco de control interno usado para auditorías financieras y de seguridad.
 📌 Ejemplo: Una empresa usa COSO para garantizar la integridad de sus reportes financieros.
 
-**4. Investigaciones y Protección de Propiedad Intelectual**
+**4. INVESTIGACION Y PROTECCION DE PROPIEDAD INTELEVTUAL**
 
 📌 Las investigaciones forenses y la protección de la propiedad intelectual ayudan a proteger información y responder a delitos digitales.
 
@@ -133,7 +133,7 @@ Marco de control interno usado para auditorías financieras y de seguridad.
 ✅ Forense Digital → Análisis de dispositivos y registros digitales después de un ciberataque.
 📌 Ejemplo: Una empresa de software investiga a un ex empleado sospechoso de robar código fuente usando forense digital.
 
-**5. Protección de Propiedad Intelectual (IP Protection)**
+**5. PROTECCION DE PROPIEDAD INTELECTUAL (IP Protection)**
 
 ✅ Prevención del robo de patentes, marcas y secretos industriales.
 
@@ -141,13 +141,14 @@ Marco de control interno usado para auditorías financieras y de seguridad.
 
 ✅ Asegurar que acuerdos comerciales cumplan con regulaciones de seguridad.
 
-**7. Requisitos de Clientes (Customer Requirements)**
+**7. REQUISITOS DE CLIENTE (Customer Requirements)**
 
 ✅ Empresas que manejan datos de clientes deben cumplir con sus exigencias de seguridad.
 
 **8. Riesgo de Demandas (Lawsuit Risk)**
    
 ✅ Reducción del riesgo legal ante fugas de datos.
+
 
 
 
@@ -163,7 +164,7 @@ Proceso de Monitoreo
 
 ![](https://github.com/user-attachments/assets/2034879c-75f7-4b4c-aac1-50e2c12c7654)
 
-**1. Honeypots (Trampas de seguridad)**
+**1. HONEYPOTS (Trampas de seguridad)**
 
 🔹 Sistemas diseñados para atraer a atacantes y recopilar información sobre sus técnicas y herramientas.
 🔹 Generan indicadores de compromiso (IoCs, por sus siglas en inglés) valiosos para mejorar la seguridad
