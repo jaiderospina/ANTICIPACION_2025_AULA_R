@@ -75,7 +75,7 @@ NIST 800-53 establece controles de seguridad para proteger la información.
 
 **2. PRIVACIDAD (Privacy)**
 
-![]<img width="550" alt="Captura de pantalla 2025-03-17 a las 9 03 01 p  m" src="https://github.com/user-attachments/assets/32cc9972-d04e-4325-a7b9-981b3ec9dce0" />
+![](https://images.ctfassets.net/y6oq7udscnj8/3pscDfE7IdhTUDIk3o3eBf/859d550af96a90102948d7487bfcad60/privacy_shield.png?w=646&h=208&q=50&fm=png)
 
 Las leyes de privacidad protegen los datos personales y establecen cómo deben ser recopilados, almacenados y compartidos.
 
@@ -97,7 +97,7 @@ Obliga a empresas a:
 
 **3. AUDITORIA (Audit)**
 
-![](<img width="550" alt="Captura de pantalla 2025-03-17 a las 9 03 01 p  m" src="https://github.com/user-attachments/assets/32cc9972-d04e-4325-a7b9-981b3ec9dce0" />)
+![]<img width="550" alt="Captura de pantalla 2025-03-17 a las 9 03 01 p  m" src="https://github.com/user-attachments/assets/32cc9972-d04e-4325-a7b9-981b3ec9dce0" />
 
 📌 Las auditorías verifican que las empresas cumplan con las regulaciones y que sus sistemas sean seguros.
 
