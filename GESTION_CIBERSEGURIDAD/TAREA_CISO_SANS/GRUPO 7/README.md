@@ -7,6 +7,8 @@ La gestión de riesgos en ciberseguridad es un proceso sistemático que identifi
 1.2.	Riesgos en ciberseguridad
 1.2.1.	Malware.
 El malware es un software malicioso diseñado para infiltrarse o dañar sistemas informáticos sin el consentimiento del usuario. Este tipo de amenaza incluye virus, gusanos, troyanos y ransomware, entre otros (INCIBE, 2021, p. 35).
+<img width="659" alt="Captura de pantalla 2025-03-17 a la(s) 8 43 39 p m" src="https://github.com/user-attachments/assets/99904502-a66c-4d95-b3e8-2aa9d61f481a" />
+
 
 1.2.2.	Phishing.
 El phishing es una técnica de ingeniería social en la que los atacantes intentan obtener información confidencial haciéndose pasar por entidades legítimas. Se transmite a través de correos electrónicos falsificados o páginas web fraudulentas (IBM, s.f.).
