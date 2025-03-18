@@ -167,7 +167,7 @@
 
 ### Usuarios o Help Desk Reportan Problemas:
 
-    * Descripción: Los empleados de la organización o el equipo de soporte técnico identifican y reportan problemas relacionados con la seguridad.
+   * Descripción: Los empleados de la organización o el equipo de soporte técnico identifican y reportan problemas relacionados con la seguridad.
    * Ejemplo: Un empleado detecta un correo electrónico sospechoso y lo reporta al help desk. Esto puede ser una señal de phishing que necesita atención inmediata.
 
 ### Aplicación de la Ley
