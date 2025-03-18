@@ -177,3 +177,11 @@
 ### Informes de Estado, Comunicado de Prensa, Grabaciones y Conciencia Pública
  * Descripción: Se generan informes regulares sobre el estado de la seguridad y se comparten actualizaciones con el público.
     * Ejemplo: Tras un incidente, el CISO prepara un informe que describe las acciones tomadas y las medidas preventivas futuras, que puede ser divulgados a la prensa y publicarse en el sitio web de la organización.
+      
+###  Pública
+  * Descripción: La comunicación con el público y otros interesados es crucial para mantener una buena reputación y gestionar la percepción.
+    * Ejemplo: Si la organización enfrenta un incidente de seguridad significativo, se pueden emitir comunicados de prensa informando sobre lo sucedido y las medidas que se están tomando para resolver el problema.
+      
+###  Conclusión 
+La estructura presentada es esencial para una respuesta organizada y eficiente ante incidentes de seguridad cibernética. La colaboración entre los usuarios, el Centro de Comando y las autoridades, junto con un enfoque transparente hacia el público, son elementos críticos en la gestión de riesgos y la mitigación de amenazas en el entorno digital.
+
