@@ -171,4 +171,9 @@
     * Ejemplo: Un empleado detecta un correo electrónico sospechoso y lo reporta al help desk. Esto puede ser una señal de phishing que necesita atención inmediata.
 
 ### Aplicación de la Ley
-
+ * Descripción: En situaciones donde hay actividad ilegal, el Centro de Comando se comunica con las autoridades pertinentes.
+    * Ejemplo: Si se identifica que el correo sospechoso está relacionado con un ataque cibernético organizado que afecta a la organización, se notifica a la policía o autoridades cibernéticas para investigar el asunto.
+      
+### Informes de Estado, Comunicado de Prensa, Grabaciones y Conciencia Pública
+ * Descripción: Se generan informes regulares sobre el estado de la seguridad y se comparten actualizaciones con el público.
+    * Ejemplo: Tras un incidente, el CISO prepara un informe que describe las acciones tomadas y las medidas preventivas futuras, que puede ser divulgados a la prensa y publicarse en el sitio web de la organización.
