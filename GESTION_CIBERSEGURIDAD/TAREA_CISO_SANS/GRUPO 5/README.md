@@ -162,7 +162,7 @@
 
 ### Notificaciones de Terceros
 
-    * Descripción: En ciertos casos, se requiere informar a terceros sobre la situación, ya sea por políticas internas o requisitos legales.
+   * Descripción: En ciertos casos, se requiere informar a terceros sobre la situación, ya sea por políticas internas o requisitos legales.
     * Ejemplo: Si se descubre que datos sensibles han sido comprometidos en una violación de datos, se notifica a los proveedores afectados o a otras entidades relevantes.
 
 ### Usuarios o Help Desk Reportan Problemas
