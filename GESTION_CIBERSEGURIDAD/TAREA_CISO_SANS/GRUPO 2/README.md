@@ -152,7 +152,7 @@ Marco de control interno usado para auditorías financieras y de seguridad.
 
 
 
-**SOC Funciones esenciales del Centro de Operaciones de Seguridad**
+**SOC FUNCIONES ESENCIALES DEL CENTRO DE OPERACIONES DE SEGURIDAD**
 
 Monitoreo de Seguridad en Redes para detectar, analizar y mitigar amenazas cibernéticas
 
