@@ -70,6 +70,7 @@ Una respuesta en la que el sistema, ya sea automáticamente o en conjunto con el
 Área de la gestión de sistemas que implica la adquisición, prueba e instalación de múltiples parches (cambios de código) en un sistema informático administrado para mantener el software actualizado y, a menudo, para abordar el riesgo de seguridad.
 
 ### Detection (Detección)
+![Detection](Images/2DETECCION.png)
 
 Proceso de identificar y reportar errores, omisiones, usos o accesos no autorizados, así como detectar y responder a amenazas y vulnerabilidades de ciberseguridad..
 
@@ -167,10 +168,12 @@ El proceso de comunicar a las partes interesadas, incluidos empleados, clientes 
 
 
 ## PROCESO GENERAL DE RESPUESTA A INCIDENTES
+![RESPUESTA](Images/3RESPUESTAS.png)
 
 La respuesta a incidentes no es una actividad individual dentro del SOC, esta requiere la integración con otros equipos y funciones del SOC, para obtener soporte y análisis y proveer el estado y reporte, teniendo como base contener el incidente y regresar a operación.
 
 ### Componentes Clave:
+![Componentes](Images/4COMPCLAVEI.png)
 
 **1. Aislamiento y Contención (Isolate and Contain Assets):**
 
