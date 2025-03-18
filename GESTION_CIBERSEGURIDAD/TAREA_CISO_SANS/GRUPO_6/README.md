@@ -28,8 +28,9 @@ Credibilidad y Confianza: Realizar investigaciones forenses efectivas y transpar
 >EL CONTENIDO INCLUIDO A CONTINUACION ES DE ESPECIAL ATENCION PARA EL PROYECTO X
 
 ## 1. LA GOBERNANZA EN EL SISTEMA CISO (CHIEF INFORMATION SECURITY OFFICER)
-![]()
+
 La sección de Gobernanza en el contexto del CISO Mind Map es fundamental para establecer un marco de seguridad que garantice la alineación con los objetivos del negocio y la gestión de riesgos. A continuación, se detalla cada una de sus subdivisiones:
+![Captura de pantalla 2025-03-18 134826](https://github.com/user-attachments/assets/5b191ff2-b088-41f4-bc46-f81971536048)
 
 **1. Strategy**
 La estrategia define la visión y los objetivos a largo plazo del programa de ciberseguridad. Implica el desarrollo de planes que alineen las iniciativas de seguridad con la misión de la organización.
@@ -93,3 +94,5 @@ Proceso para gestionar cambios en la infraestructura de TI de manera segura, min
 **19. Board Communications**
 Establecimiento de un canal de comunicación claro entre el equipo de seguridad y la junta directiva, asegurando que los temas de ciberseguridad sean tratados a nivel ejecutivo.
 Esta estructura de gobernanza es esencial para construir una base sólida en la gestión de la ciberseguridad, permitiendo a las organizaciones protegerse contra amenazas y cumplir con las regulaciones aplicables.
+
+## 2. FUNCIÓN DE FORENSICS DENTRO DE UN SECURITY OPERATIONS CENTER (SOC)
