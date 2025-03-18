@@ -2,6 +2,8 @@
 La ciberseguridad no es solo una técnica, también implica cumplir con leyes y regulaciones que protegen la información y garantizan la privacidad de los datos.
 El marco Legal y Regulatorio en ciberseguridad se divide en 8 categorías claves asi:
 
+![]<img width="521" alt="Captura de pantalla 2025-03-17 a las 2 47 07 p  m" src="https://github.com/user-attachments/assets/ed2652e6-8b59-4da8-934d-0fee1c7d54d0" />
+Captura de pantalla 2025-03-17 a las 2.47.07 p. m.
 1. Cumplimiento Normativo (Compliance)
 2. Privacidad (Privacy)
 3. Auditoría (Audit)
