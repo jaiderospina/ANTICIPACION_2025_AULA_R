@@ -7,14 +7,18 @@ La gestión de riesgos en ciberseguridad es un proceso sistemático que identifi
 1.2.	Riesgos en ciberseguridad
 1.2.1.	Malware.
 El malware es un software malicioso diseñado para infiltrarse o dañar sistemas informáticos sin el consentimiento del usuario. Este tipo de amenaza incluye virus, gusanos, troyanos y ransomware, entre otros (INCIBE, 2021, p. 35).
+
 <img width="659" alt="Captura de pantalla 2025-03-17 a la(s) 8 43 39 p m" src="https://github.com/user-attachments/assets/99904502-a66c-4d95-b3e8-2aa9d61f481a" />
 
 1.2.2.	Phishing.
 El phishing es una técnica de ingeniería social en la que los atacantes intentan obtener información confidencial haciéndose pasar por entidades legítimas. Se transmite a través de correos electrónicos falsificados o páginas web fraudulentas (IBM, s.f.).
+
 ![spear-phishing](https://github.com/user-attachments/assets/78fe7042-2fb0-444b-9b5e-38ed12670690)
 
 1.2.3.	Ransomware
 El ransomware es un software malicioso que cifra los archivos de la víctima y exige un pago para restaurar el acceso. Puede causar interrupciones operacionales y pérdidas económicas significativas (Fortinet, s.f.).
+
+<img width="1230" alt="Captura de pantalla 2025-03-17 a la(s) 8 51 35 p m" src="https://github.com/user-attachments/assets/f17d9101-c3b2-4c9b-aa17-75da99afa18c" />
 
 1.2.4.	Ataques de denegación de servicio (DDoS)
 Un ataque DDoS sobrecarga un servidor o red con tráfico excesivo, provocando la interrupción de servicios y afectando la disponibilidad de los recursos (Fortinet, s.f.).
@@ -25,14 +29,20 @@ Las amenazas internas provienen de empleados, contratistas o socios comerciales 
 1.2.6.	Ingeniería social
 La ingeniería social es una técnica utilizada por ciberdelincuentes para manipular a las personas y obtener acceso a información sensible. Puede presentarse en forma de llamadas fraudulentas, mensajes engañosos o sitios web falsificados (Vectra AI, s.f.).
 
+![ciberataques-ingenieria-social](https://github.com/user-attachments/assets/cb04ae6b-e944-4063-b2cc-176d652011b2)
+
 1.2.7.	Vulnerabilidades de terceros
 Estas vulnerabilidades ocurren cuando sistemas de proveedores externos presentan fallos de seguridad que pueden ser explotados por atacantes, afectando a las empresas que dependen de esos servicios (Hewlett Packard Enterprise (HPE), s.f.).
 
 1.2.8.	Filtraciones de datos
 Una filtración de datos ocurre cuando información confidencial es expuesta o robada, ya sea por ataques cibernéticos o errores humanos. Estas filtraciones pueden generar sanciones legales y daños a la reputación de la organización (INCIBE, 2021, p. 48).
 
+<img width="1251" alt="Captura de pantalla 2025-03-17 a la(s) 9 00 02 p m" src="https://github.com/user-attachments/assets/d14629fa-7e80-433b-9c40-b45132129c3c" />
+
 1.2.9.	Accesos no autorizados
 Los accesos no autorizados ocurren cuando individuos sin permisos adecuados ingresan a sistemas o bases de datos confidenciales, lo que puede llevar al robo de información y alteración de datos (INCIBE, 2021, p. 51).
+
+![AdobeStock_614759545-scaled](https://github.com/user-attachments/assets/495eff0a-8ae1-4d10-8652-1c835ab6b100)
 
 1.2.10.	Inyección de código
 La inyección de código es una vulnerabilidad en la que los atacantes insertan código malicioso en una aplicación para ejecutar comandos no autorizados o acceder a datos sensibles (INCIBE, 2021, p. 55).
