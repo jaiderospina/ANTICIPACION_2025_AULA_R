@@ -153,7 +153,7 @@
 
 # CENTRO DE MANDO
 ![centro de mando](IMAGENES/CENTRODEMANDO.png)
-![centro de mando](Imagenes/CENTRODEMANDO.png)
+
 ### Centro de Comando
 
 1.  **Centro de Comando:**
