@@ -1,7 +1,10 @@
 ##  Taller en Clase
-# CISO MIND  MAP
+
+<p align="center"> CISO MIND  MAP</p>
 
 ![](https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/GESTION_CIBERSEGURIDAD/images/CISO.jpeg)
+
+
 
 En equipos de trabajo:
 
