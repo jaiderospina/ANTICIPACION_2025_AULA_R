@@ -1,9 +1,9 @@
-**SANS MARCO LEGAL Y REGULATORIO EN CIBERSEGURIDAD**
+***SANS MARCO LEGAL Y REGULATORIO EN CIBERSEGURIDAD***
 
 
 
-La ciberseguridad no es solo técnica, también implica cumplir con leyes y regulaciones que protegen la información y garantizan la privacidad de los datos.
-El área de Legal y Regulatorio se divide en 8 categorías clave:
+La ciberseguridad no es solo una técnica, también implica cumplir con leyes y regulaciones que protegen la información y garantizan la privacidad de los datos.
+El marco Legal y Regulatorio en ciberseguridad se divide en 8 categorías claves asi:
 
 
 ![](https://github.com/user-attachments/assets/56d1b1df-2cff-4333-934f-51bc13f66295)
@@ -154,7 +154,7 @@ Marco de control interno usado para auditorías financieras y de seguridad.
 
 
 
-**SOC FUNCIONES ESENCIALES DEL CENTRO DE OPERACIONES DE SEGURIDAD**
+***SOC FUNCIONES ESENCIALES DEL CENTRO DE OPERACIONES DE SEGURIDAD***
 
 Monitoreo de Seguridad en Redes para detectar, analizar y mitigar amenazas cibernéticas
 
