@@ -55,5 +55,89 @@ El cumplimiento normativo es el conjunto de reglas y estándares que las empresa
 🔹 NIST 800-53 establece controles de seguridad para proteger la información.
 📌 Ejemplo: Una agencia del gobierno de EE.UU. debe seguir NIST 800-53 para proteger sus redes contra ciberataques.
 
+2. Privacidad (Privacy)
 
+Las leyes de privacidad protegen los datos personales y establecen cómo deben ser recopilados, almacenados y compartidos.
+
+✅ Privacy Shield
+🔹 Acuerdo entre EE.UU. y la UE para la transferencia de datos personales.
+🔹 Regula cómo las empresas de EE.UU. manejan los datos de ciudadanos europeos.
+📌 Ejemplo: Una empresa de EE.UU. que gestiona datos de clientes europeos debe cumplir con Privacy Shield.
+
+✅ EU GDPR (General Data Protection Regulation)
+🔹 Ley de protección de datos de la Unión Europea.
+🔹 Obliga a empresas a:
+✔ Informar a los usuarios sobre el uso de sus datos.
+✔ Obtener consentimiento antes de recopilar información.
+✔ Permitir que los usuarios eliminen sus datos ("derecho al olvido").
+📌 Ejemplo: Facebook debe pedir permiso antes de recopilar datos de un usuario en Europa para cumplir con GDPR.
+
+
+3. Auditoria (Audit)
+
+📌 Las auditorías verifican que las empresas cumplan con las regulaciones y que sus sistemas sean seguros.
+
+✅ SSAE 16 (Statement on Standards for Attestation Engagements 16)
+🔹 Estándar de auditoría para evaluar controles de seguridad y operativos en empresas.
+📌 Ejemplo: Un proveedor de servicios en la nube debe pasar una auditoría SSAE 16 para demostrar que sus controles de seguridad funcionan.
+
+✅ SOC 2 (Service Organization Control 2)
+🔹 Informe de auditoría que demuestra que una empresa maneja datos de clientes con altos estándares de seguridad.
+📌 Ejemplo: Un proveedor de software que almacena datos de clientes en la nube debe tener un informe SOC 2 para garantizar que protege la información.
+
+✅ ISO 27001
+🔹 Certificación internacional para la gestión de seguridad de la información.
+📌 Ejemplo: Una empresa de telecomunicaciones obtiene ISO 27001 para demostrar que su infraestructura es segura.
+
+✅ FISMA (Federal Information Security Management Act) & FedRAMP (Federal Risk and Authorization Management Program)
+🔹 Regulaciones de seguridad para agencias del gobierno de EE.UU. y proveedores de tecnología.
+📌 Ejemplo: Una empresa que quiere vender servicios en la nube al gobierno de EE.UU. debe cumplir con FedRAMP
+
+✅ NIST SP 800-53A
+🔹 Guía para evaluar la efectividad de los controles de seguridad en agencias gubernamentales.
+📌 Ejemplo: Un equipo de auditoría usa NIST 800-53A para verificar que una agencia federal cumple con las normas de seguridad.
+
+✅ COSO (Committee of Sponsoring Organizations of the Treadway Commission)
+🔹 Marco de control interno usado para auditorías financieras y de seguridad.
+📌 Ejemplo: Una empresa usa COSO para garantizar la integridad de sus reportes financieros.
+
+4. Investigaciones y Protección de Propiedad Intelectual
+
+📌 Las investigaciones forenses y la protección de la propiedad intelectual ayudan a proteger información y responder a delitos digitales.
+✅ eDiscovery → Búsqueda y recuperación de datos digitales para investigaciones legales.
+✅ Forense Digital → Análisis de dispositivos y registros digitales después de un ciberataque.
+📌 Ejemplo: Una empresa de software investiga a un ex empleado sospechoso de robar código fuente usando forense digital.
+
+5. Protección de Propiedad Intelectual (IP Protection)
+
+✅ Prevención del robo de patentes, marcas y secretos industriales.
+
+6. Revisión de Contratos (Contract Review)
+
+✅ Asegurar que acuerdos comerciales cumplan con regulaciones de seguridad.
+
+7. Requisitos de Clientes (Customer Requirements)
+
+✅ Empresas que manejan datos de clientes deben cumplir con sus exigencias de seguridad.
+
+8. Riesgo de Demandas (Lawsuit Risk)
+   
+✅ Reducción del riesgo legal ante fugas de datos.
+
+**SOC Funciones esenciales del Centro de Operaciones de Seguridad**
+
+Monitoreo de Seguridad en Redes para detectar, analizar y mitigar amenazas cibernéticas
+
+Proceso de Monitoreo
+✅ Recolección datos
+✅ Analiza y correlaciona en el SIEM
+✅ Evalúa y detecta amenazas
+✅ Respuesta y mitigación 
+
+![](https://github.com/user-attachments/assets/2034879c-75f7-4b4c-aac1-50e2c12c7654)
+
+1. Honeypots (Trampas de seguridad)
+
+🔹 Sistemas diseñados para atraer a atacantes y recopilar información sobre sus técnicas y herramientas.
+🔹 Generan indicadores de compromiso (IoCs, por sus siglas en inglés) valiosos para mejorar la seguridad
 
