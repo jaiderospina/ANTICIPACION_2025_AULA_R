@@ -19,6 +19,8 @@ El marco Legal y Regulatorio en ciberseguridad se divide en 8 categorías claves
 
 **1. CUMPLIMIENTO NORMATIVO (Compliance)**
 
+![](https://www.datos101.com/wp-content/uploads/2023/05/cumplimiento-normativo-850x480.jpg)
+
 El cumplimiento normativo es el conjunto de reglas y estándares que las empresas deben seguir para proteger datos y evitar sanciones legales.
 
 ✅ PCI-DSS (Payment Card Industry Data Security Standard)
