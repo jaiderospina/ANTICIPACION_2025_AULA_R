@@ -162,7 +162,7 @@ Marco de control interno usado para auditorías financieras y de seguridad.
 
 Monitoreo de Seguridad en Redes para detectar, analizar y mitigar amenazas cibernéticas
 
-![](https://miro.medium.com/v2/resize:fit:679/1*pPRb330d0YFqCkY6MC5jQg.png)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linkedin.com%2Fpulse%2Fcentro-de-operaciones-seguridad-soc-n%25C3%25BAcleo-defensivo-en-moraga-ymjkf&psig=AOvVaw2IJOLDIyeqFHReS9shnCar&ust=1742352225567000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCSuoDOkowDFQAAAAAdAAAAABAt)
 
 Proceso de Monitoreo
 ✅ Recolección datos
