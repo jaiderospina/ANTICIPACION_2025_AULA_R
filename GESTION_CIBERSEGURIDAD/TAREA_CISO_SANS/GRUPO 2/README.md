@@ -1,5 +1,4 @@
 ***SANS MARCO LEGAL Y REGULATORIO EN CIBERSEGURIDAD***
-
 La ciberseguridad no es solo una técnica, también implica cumplir con leyes y regulaciones que protegen la información y garantizan la privacidad de los datos.
 El marco Legal y Regulatorio en ciberseguridad se divide en 8 categorías claves asi:
 
