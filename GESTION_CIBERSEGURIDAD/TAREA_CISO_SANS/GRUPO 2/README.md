@@ -1,4 +1,4 @@
-<img width="550" alt="Captura de pantalla 2025-03-17 a las 9 03 01 p  m" src="https://github.com/user-attachments/assets/32cc9972-d04e-4325-a7b9-981b3ec9dce0" />***SANS MARCO LEGAL Y REGULATORIO EN CIBERSEGURIDAD***
+***SANS MARCO LEGAL Y REGULATORIO EN CIBERSEGURIDAD***
 
 
 
@@ -97,7 +97,7 @@ Obliga a empresas a:
 
 **3. AUDITORIA (Audit)**
 
-![](Captura de pantalla 2025-03-17 a las 9.03.01 p. m.
+![](<img width="550" alt="Captura de pantalla 2025-03-17 a las 9 03 01 p  m" src="https://github.com/user-attachments/assets/32cc9972-d04e-4325-a7b9-981b3ec9dce0" />)
 
 📌 Las auditorías verifican que las empresas cumplan con las regulaciones y que sus sistemas sean seguros.
 
