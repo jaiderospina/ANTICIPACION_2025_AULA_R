@@ -152,6 +152,8 @@ Marco de control interno usado para auditorías financieras y de seguridad.
 
 
 
+
+
 **SOC FUNCIONES ESENCIALES DEL CENTRO DE OPERACIONES DE SEGURIDAD**
 
 Monitoreo de Seguridad en Redes para detectar, analizar y mitigar amenazas cibernéticas
@@ -168,4 +170,39 @@ Proceso de Monitoreo
 
 🔹 Sistemas diseñados para atraer a atacantes y recopilar información sobre sus técnicas y herramientas.
 🔹 Generan indicadores de compromiso (IoCs, por sus siglas en inglés) valiosos para mejorar la seguridad
+
+**2. MONITOREO DE SEGURIDAD EN LA RED Network Security Monitoring**
+   
+🔹 Ley de protección de datos de la Unión Europea.
+🔹 proceso continuo  implica la supervisión de la red para detectar actividades sospechosas.
+✔ Informar a los usuarios sobre el uso de sus datos.
+Análisis a largo plazo: revisión de patrones de tráfico y eventos con el tiempo.
+Minería de datos: extracción de información útil de grandes volúmenes de datos.
+Estudio de la interacción: análisis de cómo se comunican los sistemas y los atacantes.
+Caza de amenazas (Threat Hunting): búsqueda proactiva de amenazas ocultas en la red.
+
+**3. SIEM SISTEMA DE GESTION DE INFORMACION Y EVENTOS DE SEGURIDAD**
+
+🔹 (Security Information and Event Management) recopila, analiza y correlaciona eventos de diferentes fuentes de seguridad.
+🔹 Generan indicadores de compromiso (IoCs, por sus siglas en inglés) valiosos para mejorar la seguridad..
+
+**4. IDS (SISTEMA DE DETECCION DE INTRUSOS)**
+🔹 Network IDS (NIDS): Monitorea el tráfico de red en busca de amenazas.
+🔹 Wireless IDS (WIDS): Analiza las redes inalámbricas en busca de ataques como la suplantación de puntos de acceso.
+🔹 Host IDS (HIDS): Supervisa actividades en un equipo específico para detectar anomalías.
+🔹 Malware Detonation (Detonación de Malware): Se refiere a entornos controlados donde se ejecuta malware para analizar su comportamiento.
+
+**5. LOGS Y ANALISIS DE DATOS**
+🔹 Network Logs (Registros de Red): Guardan información sobre el tráfico de la red, ayudando a detectar ataques.
+🔹 Host Logs (Registros del Host): Contienen eventos relacionados con sistemas individuales.
+🔹 Application Logs (Registros de Aplicaciones): Monitorean el comportamiento de las aplicaciones para detectar anomalías.
+
+**6. Full PCAP (CAPTURA COMPLETA DE PAQUETES)** 
+🔹 Recolección de todos los paquetes de datos transmitidos en la red para un análisis detallado.
+
+**7. EVALUACION HISTORICA CON NUEVOS IoCs**
+🔹 Indicadores de Compromiso (IoCs) se actualizan constantemente.
+🔹 Se revisan registros históricos para identificar si la red ya fue comprometida por ataques previos no detectados en su momento.
+
+
 
