@@ -1,4 +1,4 @@
-***SANS MARCO LEGAL Y REGULATORIO EN CIBERSEGURIDAD***
+<img width="550" alt="Captura de pantalla 2025-03-17 a las 9 03 01 p  m" src="https://github.com/user-attachments/assets/32cc9972-d04e-4325-a7b9-981b3ec9dce0" />***SANS MARCO LEGAL Y REGULATORIO EN CIBERSEGURIDAD***
 
 
 
@@ -75,6 +75,8 @@ NIST 800-53 establece controles de seguridad para proteger la información.
 
 **2. PRIVACIDAD (Privacy)**
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pandasecurity.com%2Fes%2Fmediacenter%2Fdiferencias-privacidad-seguridad%2F&psig=AOvVaw1v6RJacO0e2xC-o7B4FcMa&ust=1742349518558000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCt-_TDkowDFQAAAAAdAAAAABAE)
+
 Las leyes de privacidad protegen los datos personales y establecen cómo deben ser recopilados, almacenados y compartidos.
 
 ✅ Privacy Shield
@@ -94,6 +96,8 @@ Obliga a empresas a:
 
 
 **3. AUDITORIA (Audit)**
+
+![](Uploading Captura de pantalla 2025-03-17 a las 9.03.01 p. m..png)
 
 📌 Las auditorías verifican que las empresas cumplan con las regulaciones y que sus sistemas sean seguros.
 
