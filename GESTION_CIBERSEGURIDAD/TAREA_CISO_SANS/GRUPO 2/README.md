@@ -164,6 +164,8 @@ Marco de control interno usado para auditorías financieras y de seguridad.
 
 Monitoreo de Seguridad en Redes para detectar, analizar y mitigar amenazas cibernéticas
 
+![](https://miro.medium.com/v2/resize:fit:679/1*pPRb330d0YFqCkY6MC5jQg.png)
+
 Proceso de Monitoreo
 ✅ Recolección datos
 ✅ Analiza y correlaciona en el SIEM
