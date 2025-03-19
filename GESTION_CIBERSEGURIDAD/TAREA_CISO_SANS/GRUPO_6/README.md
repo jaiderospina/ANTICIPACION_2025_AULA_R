@@ -133,6 +133,8 @@ Cumplimiento Normativo: La forensics ayuda a garantizar que la organización cum
 
 Mejora Continua: Los hallazgos de la forensics ofrecen información valiosa sobre vulnerabilidades y brechas en la seguridad. Esto permite al CISO ajustar políticas y procedimientos para prevenir futuros incidentes.
 
+![SEC0119-Cover-Feat-slide1_900px](https://github.com/user-attachments/assets/60e115f8-5c3c-4a69-906d-8ed5f50992a8)
+
 Educación y Capacitación: La información obtenida a través de las investigaciones forenses puede ser utilizada para capacitar al personal sobre amenazas emergentes y mejores prácticas de seguridad, fortaleciendo la cultura de seguridad en la organización.
 
 Conclusión
