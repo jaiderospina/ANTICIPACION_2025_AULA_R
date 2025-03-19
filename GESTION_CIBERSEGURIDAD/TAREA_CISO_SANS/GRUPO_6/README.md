@@ -96,3 +96,44 @@ Establecimiento de un canal de comunicación claro entre el equipo de seguridad 
 Esta estructura de gobernanza es esencial para construir una base sólida en la gestión de la ciberseguridad, permitiendo a las organizaciones protegerse contra amenazas y cumplir con las regulaciones aplicables.
 
 ## 2. FUNCIÓN DE FORENSICS DENTRO DE UN SECURITY OPERATIONS CENTER (SOC)
+Explicación de los Componentes de Forensics en Ciberseguridad
+La función de forensics en un Security Operations Center (SOC) es fundamental para la investigación, análisis y mitigación de amenazas cibernéticas. A continuación, se describen los componentes clave de forensics, junto con ejemplos prácticos de su funcionamiento y un análisis de su importancia para el CISO.
+
+![forensics](https://github.com/user-attachments/assets/47c5e760-e458-43a4-9632-3f8381940259)
+
+**1. Host Forensics**
+Descripción: Se refiere a la recopilación y análisis de datos de sistemas individuales (hosts) para entender lo que ocurrió en un incidente de seguridad.Componentes:
+Adquisición de Memoria: Recopilación de datos de la memoria RAM del sistema para identificar procesos en ejecución y posibles malware.
+Adquisición de Disco: Recopilación de la imagen del disco duro para analizar archivos, registros y otros datos.
+
+Ejemplo Práctico:
+Si se detecta un malware en una máquina, se puede realizar una adquisición de memoria para identificar los procesos que están activos y descubrir cómo se infiltró el malware. Luego, se puede analizar la imagen del disco para buscar archivos maliciosos y determinar su origen.
+
+**2. Network Forensics**
+Descripción: Enfocado en el análisis de datos de red para identificar y entender incidentes que afectan a la infraestructura de red.Componentes:
+Logs de Servidores: Monitoreo y análisis de logs de servidores para detectar actividades inusuales.
+Adquisición de Paquetes: Captura de todo el tráfico de red (PCAP) para analizar la comunicación entre dispositivos.
+
+Ejemplo Práctico:
+Si se observa un aumento inusual en el tráfico hacia un servidor, se puede utilizar la adquisición de paquetes para analizar el tráfico y determinar si se trata de un ataque DDoS o una exfiltración de datos.
+
+**3. Reverse Engineering**
+Descripción: El proceso de descomponer software o hardware para entender su funcionamiento y detectar vulnerabilidades.Componentes:
+Análisis de Dispositivos y Software: Evaluación de dispositivos y aplicaciones para identificar comportamientos sospechosos o maliciosos.
+Mantenimiento de la Cadena de Custodia: Asegurar que la evidencia recolectada durante el análisis sea preservada adecuadamente para su uso en investigaciones legales.
+
+Ejemplo Práctico:
+Si se descubre un malware en un dispositivo, se puede realizar ingeniería inversa del código para comprender cómo opera, qué datos busca, y cómo se propaga. Esto permite desarrollar contramedidas efectivas.
+
+Análisis de la Función de Forensics en el CISO
+La función de forensics es esencial para la estrategia de seguridad del CISO por varias razones:
+Respuesta a Incidentes: Forensics proporciona la información necesaria para responder de manera efectiva a incidentes de seguridad. Permite identificar el alcance del ataque, la naturaleza de la amenaza y los datos comprometidos, lo que ayuda a mitigar el daño.
+
+Cumplimiento Normativo: La forensics ayuda a garantizar que la organización cumpla con las regulaciones sobre protección de datos, ofreciendo evidencia en caso de auditorías y demandas legales. Los informes forenses pueden ser utilizados para demostrar que se han tomado las medidas necesarias para proteger la información.
+
+Mejora Continua: Los hallazgos de la forensics ofrecen información valiosa sobre vulnerabilidades y brechas en la seguridad. Esto permite al CISO ajustar políticas y procedimientos para prevenir futuros incidentes.
+
+Educación y Capacitación: La información obtenida a través de las investigaciones forenses puede ser utilizada para capacitar al personal sobre amenazas emergentes y mejores prácticas de seguridad, fortaleciendo la cultura de seguridad en la organización.
+
+Conclusión
+La forensics es un componente crítico de la ciberseguridad y desempeña un papel vital dentro del SOC. Al proporcionar información detallada sobre incidentes de seguridad, la forensics permite al CISO tomar decisiones informadas, garantizar el cumplimiento y mejorar continuamente la postura de seguridad de la organización. Implementar y mantener una función de forensics efectiva es, por lo tanto, esencial para cualquier estrategia de ciberseguridad robusta.
