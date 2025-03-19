@@ -196,10 +196,10 @@ Adicional se debe retornar al servicio normal después de que la amenaza ha sido
 
 Se deben tener en cuenta las conexiones externas que se encargan de comunicación a las partes interesadas: Unidades de Negocio (Business Units), Comité Directivo (Steering Committee) y Gerencia (Management):
 
-    4.1. Unidades de Negocio:
-    Proporcionan información sobre el impacto del incidente en las operaciones y ayudan a priorizar la restauración de los servicios críticos de la organización.
-    4.2. Comité Directivo y Gerencia: 
-    Necesitan estar informados del estado del incidente, las acciones tomadas en la contención y el impacto potencial en la organización. De igual forma son responsables de proporcionar los recursos y la autoridad necesarios para la respuesta a incidentes.
+***4.1. Unidades de Negocio:
+Proporcionan información sobre el impacto del incidente en las operaciones y ayudan a priorizar la restauración de los servicios críticos de la organización.
+***4.2. Comité Directivo y Gerencia: 
+Necesitan estar informados del estado del incidente, las acciones tomadas en la contención y el impacto potencial en la organización. De igual forma son responsables de proporcionar los recursos y la autoridad necesarios para la respuesta a incidentes.
 
 ### Implicaciones para un CISO:
 
