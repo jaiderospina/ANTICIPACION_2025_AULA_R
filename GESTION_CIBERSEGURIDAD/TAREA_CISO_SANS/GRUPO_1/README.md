@@ -140,6 +140,8 @@ Colaboración con otros sectores para mejorar la seguridad.
 
 ### Response (Respuesta)
 
+![RESPUESTA](Images/3RESPUESTAS.png)
+
 Acciones o estrategias de la organización para gestionar los riesgos identificados y evaluados, abarcando enfoques como la aceptación, evitación, mitigación o transferencia/compartición del riesgo.
 
 #### Incident Handling Plan (Plan de Manejo de Incidentes):
@@ -168,7 +170,7 @@ El proceso de comunicar a las partes interesadas, incluidos empleados, clientes 
 
 
 ## PROCESO GENERAL DE RESPUESTA A INCIDENTES
-![RESPUESTA](Images/3RESPUESTAS.png)
+
 
 La respuesta a incidentes no es una actividad individual dentro del SOC, esta requiere la integración con otros equipos y funciones del SOC, para obtener soporte y análisis y proveer el estado y reporte, teniendo como base contener el incidente y regresar a operación.
 
