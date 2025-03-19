@@ -95,6 +95,8 @@ Proceso para gestionar cambios en la infraestructura de TI de manera segura, min
 Establecimiento de un canal de comunicación claro entre el equipo de seguridad y la junta directiva, asegurando que los temas de ciberseguridad sean tratados a nivel ejecutivo.
 Esta estructura de gobernanza es esencial para construir una base sólida en la gestión de la ciberseguridad, permitiendo a las organizaciones protegerse contra amenazas y cumplir con las regulaciones aplicables.
 
+<img width="998" alt="GOBERNANZA" src="https://github.com/user-attachments/assets/79a3b42a-cac9-4529-a023-ba0207cd0837" />
+
 ## 2. FUNCIÓN DE FORENSICS DENTRO DE UN SECURITY OPERATIONS CENTER (SOC)
 Explicación de los Componentes de Forensics en Ciberseguridad
 La función de forensics en un Security Operations Center (SOC) es fundamental para la investigación, análisis y mitigación de amenazas cibernéticas. A continuación, se describen los componentes clave de forensics, junto con ejemplos prácticos de su funcionamiento y un análisis de su importancia para el CISO.
@@ -133,9 +135,10 @@ Cumplimiento Normativo: La forensics ayuda a garantizar que la organización cum
 
 Mejora Continua: Los hallazgos de la forensics ofrecen información valiosa sobre vulnerabilidades y brechas en la seguridad. Esto permite al CISO ajustar políticas y procedimientos para prevenir futuros incidentes.
 
-![SEC0119-Cover-Feat-slide1_900px](https://github.com/user-attachments/assets/60e115f8-5c3c-4a69-906d-8ed5f50992a8)
+<img width="1891" alt="FORENCIS" src="https://github.com/user-attachments/assets/c540b5d7-fb8a-4bd8-8499-79aa0010752f" />
 
 Educación y Capacitación: La información obtenida a través de las investigaciones forenses puede ser utilizada para capacitar al personal sobre amenazas emergentes y mejores prácticas de seguridad, fortaleciendo la cultura de seguridad en la organización.
 
 Conclusión
 La forensics es un componente crítico de la ciberseguridad y desempeña un papel vital dentro del SOC. Al proporcionar información detallada sobre incidentes de seguridad, la forensics permite al CISO tomar decisiones informadas, garantizar el cumplimiento y mejorar continuamente la postura de seguridad de la organización. Implementar y mantener una función de forensics efectiva es, por lo tanto, esencial para cualquier estrategia de ciberseguridad robusta.
+![SEC0119-Cover-Feat-slide1_900px](https://github.com/user-attachments/assets/60e115f8-5c3c-4a69-906d-8ed5f50992a8)
