@@ -95,7 +95,7 @@ Proceso para gestionar cambios en la infraestructura de TI de manera segura, min
 Establecimiento de un canal de comunicación claro entre el equipo de seguridad y la junta directiva, asegurando que los temas de ciberseguridad sean tratados a nivel ejecutivo.
 Esta estructura de gobernanza es esencial para construir una base sólida en la gestión de la ciberseguridad, permitiendo a las organizaciones protegerse contra amenazas y cumplir con las regulaciones aplicables.
 
-<img width="998" alt="GOBERNANZA" src="https://github.com/user-attachments/assets/79a3b42a-cac9-4529-a023-ba0207cd0837" />
+<img width="1020" alt="gobernanza - ciso" src="https://github.com/user-attachments/assets/6f7d4ab8-6b67-48e4-a8b4-520f0936df2e" />
 
 ## 2. FUNCIÓN DE FORENSICS DENTRO DE UN SECURITY OPERATIONS CENTER (SOC)
 Explicación de los Componentes de Forensics en Ciberseguridad
