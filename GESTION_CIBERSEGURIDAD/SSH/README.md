@@ -3,6 +3,10 @@
 
 Este manual te guiará a través de los pasos necesarios para **instalar (si es necesario)**, habilitar, verificar el funcionamiento y conectarte a un servidor SSH en tu máquina Kali Linux de forma remota.
 
+**DEFINICIÓN**
+
+El protocolo SSH (Secure Shell) es un protocolo de red seguro que permite a los usuarios conectarse a servidores remotos a través de una conexión cifrada. Esto significa que todos los datos transmitidos entre el cliente y el servidor están protegidos de escuchas y manipulaciones, lo que lo convierte en una herramienta esencial para la administración remota de sistemas, la transferencia segura de archivos y la ejecución de comandos en servidores remotos. Su importancia radica en la seguridad que proporciona, reemplazando protocolos no seguros como Telnet y FTP, y asegurando la confidencialidad e integridad de la información transmitida.
+
 **1. Instalar el Servidor SSH (Si no está instalado):**
 
 Aunque Kali Linux suele incluir el servidor SSH por defecto, en algunas instalaciones minimalistas o personalizadas podría no estar presente. Sigue estos pasos para instalarlo:
